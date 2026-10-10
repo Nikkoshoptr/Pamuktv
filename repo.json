@@ -1,0 +1,8 @@
+{
+    "name":  "Pamuk TV - Turkish Providers Repository",
+    "description":  "Pamuk TV Turkce icerikli CloudStream eklenti havuzu",
+    "manifestVersion":  1,
+    "pluginLists":  [
+                        "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/plugins.json"
+                    ]
+}
