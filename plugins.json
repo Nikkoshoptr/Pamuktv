@@ -1026,25 +1026,6 @@
         "name":  "GolgeTV"
     },
     {
-        "iconUrl":  "https://www.google.com/s2/favicons?domain=hdabla.net\u0026sz=128",
-        "apiVersion":  1,
-        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize":  13721,
-        "status":  1,
-        "language":  "tr",
-        "authors":  [
-                        "kerimmkirac"
-                    ],
-        "tvTypes":  [
-                        "NSFW"
-                    ],
-        "version":  2,
-        "internalName":  "HdAbla",
-        "description":  "Porno film izlemek için HdAbla sitesini ziyaret edin. Keyifle mobil sikiş seyret. Sex ve rokettube seks videolarını güncel olarak Full HD kalitede bedava adult porn sunuyoruz",
-        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HdAbla.cs3",
-        "name":  "HdAbla"
-    },
-    {
         "iconUrl":  "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com\u0026sz=128",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
@@ -1268,25 +1249,6 @@
         "name":  "HRShortDrama"
     },
     {
-        "iconUrl":  "https://t2.gstatic.com/faviconV2?client=SOCIAL\u0026type=FAVICON\u0026fallback_opts=TYPE,SIZE,URL\u0026url=https://ifsalog4.club/\u0026size=128",
-        "apiVersion":  1,
-        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize":  11783,
-        "status":  0,
-        "language":  "tr",
-        "authors":  [
-                        "kraptor"
-                    ],
-        "tvTypes":  [
-                        "NSFW"
-                    ],
-        "version":  3,
-        "internalName":  "IfsaLog",
-        "description":  "İfsalog Saklanan ne varsa burada ifşa olur ! - Türkiye’nin en güncel ifşa içeriklerini HD kalitede keşfedin – sızdırılmış videolar, özel çekimler ve sosyal medya medyasıyla gerçek ifşalar şimdi burada!",
-        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/IfsaLog.cs3",
-        "name":  "IfsaLog"
-    },
-    {
         "iconUrl":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
@@ -1356,25 +1318,6 @@
         "description":  "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
         "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/JetFilmizle.cs3",
         "name":  "JetFilmizle"
-    },
-    {
-        "iconUrl":  "https://www.google.com/s2/favicons?domain=www.kalite18.net\u0026sz=128",
-        "apiVersion":  1,
-        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize":  12776,
-        "status":  1,
-        "language":  "tr",
-        "authors":  [
-                        "kerimmkirac"
-                    ],
-        "tvTypes":  [
-                        "NSFW"
-                    ],
-        "version":  2,
-        "internalName":  "Kalite18",
-        "description":  "Kalite18, sizlere porno filmleri HD kalite ve türkçe altyazılı olarak izleme keyfi sunmaktadır. Porno ve sex filmlerini anlayarak 31 çekmenin keyfini çıkarın.",
-        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Kalite18.cs3",
-        "name":  "Kalite18"
     },
     {
         "iconUrl":  "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/kick.png",
@@ -1580,25 +1523,6 @@
         "description":  "Anime izleme deneyiminizi zenginleştiren, hızlı ve etkileyici özelliklerle donatılmış, şık bir tasarıma sahip anime platformu. Anime izleme deneyiminiz, kolaylaştırıldı.",
         "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/OpenAnime.cs3",
         "name":  "OpenAnime"
-    },
-    {
-        "iconUrl":  "https://www.google.com/s2/favicons?domain=pornoanne.com\u0026sz=128",
-        "apiVersion":  1,
-        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize":  11636,
-        "status":  1,
-        "language":  "tr",
-        "authors":  [
-                        "kerimmkirac"
-                    ],
-        "tvTypes":  [
-                        "NSFW"
-                    ],
-        "version":  3,
-        "internalName":  "PornoAnne",
-        "description":  "Porno Anne ile en kaliteli HD porno filmleri burada! Sex videoları ve sikiş sahneleri ile dolu anlara ücretsiz porno izle yazarak ulaş ve sikiş seyret.",
-        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/PornoAnne.cs3",
-        "name":  "PornoAnne"
     },
     {
         "iconUrl":  "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powerdizi.png",

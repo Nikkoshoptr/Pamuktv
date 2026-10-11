@@ -12,7 +12,7 @@ Türkçe içerik sunan siteleri CloudStream'e ekleyen birleşik eklenti deposu.
 https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/repo.json
 ```
 
-## Eklenti Listesi (131 adet)
+## Eklenti Listesi (127 adet)
 
 | # | Eklenti | Türler | Sürüm |
 |---|---------|--------|-------|
@@ -70,83 +70,79 @@ https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/repo.json
 | 52 | GinikoCanli | Live | 15 |
 | 53 | GoFilmIzle - Latte | Movie | 3 |
 | 54 | GolgeTV | Live | 6 |
-| 55 | HdAbla | NSFW | 2 |
-| 56 | HDFilmCehennemi | Movie, TvSeries | 58 |
-| 57 | HDFilmCehennemi2 | Movie | 7 |
-| 58 | HDFilmDelisi | Movie, TvSeries | 1 |
-| 59 | HDFilmIzle | Movie, TvSeries | 7 |
-| 60 | HDFilmSitesi | Movie | 18 |
-| 61 | HintFilmIzle | Movie, TvSeries | 2 |
-| 62 | HRAnime | Anime, Others | 1 |
-| 63 | HRAsianDrama | AsianDrama, Movie, Anime, Others | 4 |
-| 64 | HRKids | Cartoon, Others | 1 |
-| 65 | HRLive | Live | 1 |
-| 66 | HRSeries | TvSeries | 2 |
-| 67 | HRShortDrama | AsianDrama, Movie, Anime, Others | 5 |
-| 68 | IfsaLog | NSFW | 3 |
-| 69 | InatBox | Movie, TvSeries, Live | 30 |
-| 70 | iptvSevenler | Live | 3 |
-| 71 | IzleAI | Movie | 6 |
-| 72 | JetFilmizle | Movie | 47 |
-| 73 | Kalite18 | NSFW | 2 |
-| 74 | KICK Türkiye - Latte | TvSeries, Movie | 3 |
-| 75 | KickTR | Live | 17 |
-| 76 | KoreanTurk | AsianDrama | 7 |
-| 77 | KraptorPlus | TvSeries, Movie, Anime, Cartoon, AsianDrama, AnimeMovie | 86 |
-| 78 | KultFilmler | Movie, TvSeries | 16 |
-| 79 | MirrorVerse | Movie, TvSeries | 38 |
-| 80 | Müzik TV ve Radyo - Latte | Live | 3 |
-| 81 | myway TV - Latte | Live | 3 |
-| 82 | OnePaceTr | Anime | 13 |
-| 83 | OpenAnime | Anime, AnimeMovie | 28 |
-| 84 | PornoAnne | NSFW | 3 |
-| 85 | powerboard Dizi - Latte | TvSeries | 6 |
-| 86 | powerboard Sinema - Latte | Movie | 5 |
-| 87 | powerDizi | TvSeries | 3 |
-| 88 | powerSinema | Movie | 3 |
-| 89 | RecTV | Movie, Live, TvSeries | 113 |
-| 90 | RoketDizi | TvSeries | 15 |
-| 91 | SeiCode | Anime | 25 |
-| 92 | SelcukFlix | Movie, TvSeries | 6 |
-| 93 | SetFilmIzle | Movie, TvSeries | 32 |
-| 94 | SezonlukDizi | TvSeries | 9 |
-| 95 | SezonlukFilm | Movie | 1 |
-| 96 | SinemaCX | Movie | 25 |
-| 97 | SineWix | Movie, TvSeries, Anime | 3 |
-| 98 | Sinezy | Movie | 40 |
-| 99 | SSportPlus | Live | 8 |
-| 100 | SuperFilmGeldi | Movie | 24 |
-| 101 | Tabii | Movie, TvSeries | 9 |
-| 102 | Tafdi | Movie | 3 |
-| 103 | TLC | TvSeries | 1 |
-| 104 | TLCtr | Movie | 19 |
-| 105 | TorrentFilm | Movie, Torrent | 2 |
-| 106 | TRanimaci | Anime | 19 |
-| 107 | TRasyalog | TvSeries | 65 |
-| 108 | TurkAnime | Anime | 14 |
-| 109 | Turkdizileri | Movie | 33 |
-| 110 | TurkishMix | Movie, TvSeries, Anime, Live | 10 |
-| 111 | TurkishW | Movie, TvSeries, Anime, Live | 85 |
-| 112 | TurkMegaSaglayici |  | 2 |
-| 113 | TurkSCanliTV | Live | 6 |
-| 114 | Tv Bahçesi - Latte | Live | 3 |
-| 115 | TvDiziler | TvSeries | 4 |
-| 116 | UgurFilm | Movie | 13 |
-| 117 | vavooSpor | Live | 2 |
-| 118 | WebDramaTurkey | AsianDrama | 15 |
-| 119 | WebDramaTurkey - Latte | Movie, Podcast, AsianDrama, Anime | 3 |
-| 120 | WebdramaTurkey2 | AsianDrama, Movie, Anime, Others | 1 |
-| 121 | WebteIzle | Movie | 59 |
-| 122 | WFilmİzle | Movie | 7 |
-| 123 | XPrime | Movie | 6 |
-| 124 | YabanciDizi | TvSeries | 8 |
-| 125 | YeniKaynak | Movie, TvSeries | 11 |
-| 126 | YerelDiziler | Tv Series | 14 |
-| 127 | YerelProgramlar | Tv Series | 1 |
-| 128 | YesilCamTv | Movie | 26 |
-| 129 | YouTube | Others | 6 |
-| 130 | YouTube Özel - Latte | Live | 1 |
-| 131 | YTS | Torrent | 42 |
+| 55 | HDFilmCehennemi | Movie, TvSeries | 58 |
+| 56 | HDFilmCehennemi2 | Movie | 7 |
+| 57 | HDFilmDelisi | Movie, TvSeries | 1 |
+| 58 | HDFilmIzle | Movie, TvSeries | 7 |
+| 59 | HDFilmSitesi | Movie | 18 |
+| 60 | HintFilmIzle | Movie, TvSeries | 2 |
+| 61 | HRAnime | Anime, Others | 1 |
+| 62 | HRAsianDrama | AsianDrama, Movie, Anime, Others | 4 |
+| 63 | HRKids | Cartoon, Others | 1 |
+| 64 | HRLive | Live | 1 |
+| 65 | HRSeries | TvSeries | 2 |
+| 66 | HRShortDrama | AsianDrama, Movie, Anime, Others | 5 |
+| 67 | InatBox | Movie, TvSeries, Live | 30 |
+| 68 | iptvSevenler | Live | 3 |
+| 69 | IzleAI | Movie | 6 |
+| 70 | JetFilmizle | Movie | 47 |
+| 71 | KICK Türkiye - Latte | TvSeries, Movie | 3 |
+| 72 | KickTR | Live | 17 |
+| 73 | KoreanTurk | AsianDrama | 7 |
+| 74 | KraptorPlus | TvSeries, Movie, Anime, Cartoon, AsianDrama, AnimeMovie | 86 |
+| 75 | KultFilmler | Movie, TvSeries | 16 |
+| 76 | MirrorVerse | Movie, TvSeries | 38 |
+| 77 | Müzik TV ve Radyo - Latte | Live | 3 |
+| 78 | myway TV - Latte | Live | 3 |
+| 79 | OnePaceTr | Anime | 13 |
+| 80 | OpenAnime | Anime, AnimeMovie | 28 |
+| 81 | powerboard Dizi - Latte | TvSeries | 6 |
+| 82 | powerboard Sinema - Latte | Movie | 5 |
+| 83 | powerDizi | TvSeries | 3 |
+| 84 | powerSinema | Movie | 3 |
+| 85 | RecTV | Movie, Live, TvSeries | 113 |
+| 86 | RoketDizi | TvSeries | 15 |
+| 87 | SeiCode | Anime | 25 |
+| 88 | SelcukFlix | Movie, TvSeries | 6 |
+| 89 | SetFilmIzle | Movie, TvSeries | 32 |
+| 90 | SezonlukDizi | TvSeries | 9 |
+| 91 | SezonlukFilm | Movie | 1 |
+| 92 | SinemaCX | Movie | 25 |
+| 93 | SineWix | Movie, TvSeries, Anime | 3 |
+| 94 | Sinezy | Movie | 40 |
+| 95 | SSportPlus | Live | 8 |
+| 96 | SuperFilmGeldi | Movie | 24 |
+| 97 | Tabii | Movie, TvSeries | 9 |
+| 98 | Tafdi | Movie | 3 |
+| 99 | TLC | TvSeries | 1 |
+| 100 | TLCtr | Movie | 19 |
+| 101 | TorrentFilm | Movie, Torrent | 2 |
+| 102 | TRanimaci | Anime | 19 |
+| 103 | TRasyalog | TvSeries | 65 |
+| 104 | TurkAnime | Anime | 14 |
+| 105 | Turkdizileri | Movie | 33 |
+| 106 | TurkishMix | Movie, TvSeries, Anime, Live | 10 |
+| 107 | TurkishW | Movie, TvSeries, Anime, Live | 85 |
+| 108 | TurkMegaSaglayici |  | 2 |
+| 109 | TurkSCanliTV | Live | 6 |
+| 110 | Tv Bahçesi - Latte | Live | 3 |
+| 111 | TvDiziler | TvSeries | 4 |
+| 112 | UgurFilm | Movie | 13 |
+| 113 | vavooSpor | Live | 2 |
+| 114 | WebDramaTurkey | AsianDrama | 15 |
+| 115 | WebDramaTurkey - Latte | Movie, Podcast, AsianDrama, Anime | 3 |
+| 116 | WebdramaTurkey2 | AsianDrama, Movie, Anime, Others | 1 |
+| 117 | WebteIzle | Movie | 59 |
+| 118 | WFilmİzle | Movie | 7 |
+| 119 | XPrime | Movie | 6 |
+| 120 | YabanciDizi | TvSeries | 8 |
+| 121 | YeniKaynak | Movie, TvSeries | 11 |
+| 122 | YerelDiziler | Tv Series | 14 |
+| 123 | YerelProgramlar | Tv Series | 1 |
+| 124 | YesilCamTv | Movie | 26 |
+| 125 | YouTube | Others | 6 |
+| 126 | YouTube Özel - Latte | Live | 1 |
+| 127 | YTS | Torrent | 42 |
 
 ## Kaynaklar / Teşekkür
 
