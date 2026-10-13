@@ -3,6 +3,6 @@
     "description": "Pamuk TV Turkce icerikli CloudStream eklenti havuzu",
     "manifestVersion": 2,
     "pluginLists": [
-        "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/refs/heads/main/plugins.json"
+        "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/plugins.json"
     ]
 }
