@@ -5,12 +5,14 @@ Türkçe içerik sunan siteleri CloudStream'e ekleyen birleşik eklenti deposu.
 ## Kurulum
 
 1. Cihazında [CloudStream pre-release](https://github.com/recloudstream/cloudstream/releases/tag/pre-release) APK'sını kur.
-2. **Otomatik ekleme:** [Depoyu ekle](cloudstreamrepo://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/repo.json) bağlantısına dokun.
+2. **Otomatik ekleme:** [Depoyu ekle](cloudstreamrepo://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs.json) bağlantısına dokun.
 3. **Manuel ekleme:** CloudStream > `Ayarlar` > `Uzantılar` > `Depo ekle` yolundan aşağıdaki URL'yi ekle:
 
 ```
-https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/repo.json
+https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs.json
 ```
+
+> Not: `repo.json` adresini de kullanabilirsiniz (aynı içerik): `https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/repo.json`
 
 ## Eklenti Listesi (127 adet)
 
