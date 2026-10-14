@@ -1088,7 +1088,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 59,        "internalName": "HDFilmCehennemi",        "fileSize": 23758,
+        "version": 59,        "internalName": "HDFilmCehennemi",        "fileSize": 0,
         "description": "TÃ¼rkiye'nin en hÄ±zlÄ± hd film izleme sitesi",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HDFilmCehennemi.cs3",
         "name": "HDFilmCehennemi"
@@ -2549,4 +2549,5 @@
         "name": "YTS"
     }
 ]
+
 
