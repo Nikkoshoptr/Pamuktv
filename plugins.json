@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.4kfilmizlesene.org&sz=128",
         "apiVersion": 1,
@@ -14,7 +14,7 @@
         ],
         "version": 6,
         "internalName": "4KFilmIzlesene",
-        "description": "En yeni ve sorunsuz ⚡  Full HD Film izle keyfi her yerde sizinle ! 4K ve 1080p online film izleme farkıyla 4KFilmizlesene&amp;#039;nin Tadını Çıkart.",
+        "description": "En yeni ve sorunsuz âš¡  Full HD Film izle keyfi her yerde sizinle ! 4K ve 1080p online film izleme farkÄ±yla 4KFilmizlesene&amp;#039;nin TadÄ±nÄ± Ã‡Ä±kart.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/4KFilmIzlesene.cs3",
         "name": "4KFilmIzlesene"
     },
@@ -35,7 +35,7 @@
         ],
         "version": 21,
         "internalName": "AnimeciX",
-        "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
+        "description": "AnimeciX, animeleri keÅŸfedebileceÄŸiniz ve animeler hakkÄ±nda her ÅŸeyi Ã¶ÄŸrenebileceÄŸiniz bir paylaÅŸÄ±m platformudur.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/AnimeciX.cs3",
         "name": "AnimeciX"
     },
@@ -56,7 +56,7 @@
         ],
         "version": 16,
         "internalName": "Animeler",
-        "description": "Animeler - Türkçe Altyazılı ve Dublajlı Anime İzleme Platformu",
+        "description": "Animeler - TÃ¼rkÃ§e AltyazÄ±lÄ± ve DublajlÄ± Anime Ä°zleme Platformu",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Animeler.cs3",
         "name": "Animeler"
     },
@@ -78,7 +78,7 @@
         ],
         "version": 4,
         "internalName": "Animely",
-        "description": "Animely ile en sevdiğiniz animeleri Türkçe altyazılı olarak HD kalitede izleyin. Güncel sezon animeleri, klasikler ve çok daha fazlası. Hemen ücretsiz hesap oluşturun ve anime dünyasına katılın. Binlerce bölüm anime içeriğiyle sizleri bekliyor!",
+        "description": "Animely ile en sevdiÄŸiniz animeleri TÃ¼rkÃ§e altyazÄ±lÄ± olarak HD kalitede izleyin. GÃ¼ncel sezon animeleri, klasikler ve Ã§ok daha fazlasÄ±. Hemen Ã¼cretsiz hesap oluÅŸturun ve anime dÃ¼nyasÄ±na katÄ±lÄ±n. Binlerce bÃ¶lÃ¼m anime iÃ§eriÄŸiyle sizleri bekliyor!",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Animely.cs3",
         "name": "Animely"
     },
@@ -99,7 +99,7 @@
         ],
         "version": 25,
         "internalName": "Anizium",
-        "description": "Anizium ile dünyada ilk ve tek 4K Türkçe dublaj platformunda anime keyfini yaşa. En yeni animeleri İngilizce altyazı ve dublaj seçenekleriyle 1080p ve 4K kalitesinde HD izle.",
+        "description": "Anizium ile dÃ¼nyada ilk ve tek 4K TÃ¼rkÃ§e dublaj platformunda anime keyfini yaÅŸa. En yeni animeleri Ä°ngilizce altyazÄ± ve dublaj seÃ§enekleriyle 1080p ve 4K kalitesinde HD izle.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Anizium.cs3",
         "name": "Anizium"
     },
@@ -139,7 +139,7 @@
         ],
         "version": 1,
         "internalName": "AsyaAnimeleri",
-        "description": "Asya Animeleri - Anime izle, Donghua izle, Türkçe Altyazılı Anime izle.",
+        "description": "Asya Animeleri - Anime izle, Donghua izle, TÃ¼rkÃ§e AltyazÄ±lÄ± Anime izle.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/AsyaAnimeleri.cs3",
         "name": "AsyaAnimeleri"
     },
@@ -159,7 +159,7 @@
         ],
         "version": 22,
         "internalName": "AsyaFanatiklerim",
-        "description": "Asya Fanatikleri, asya dizilerini izleme imkanı sunar. Kore dizileri izle, asyafanatikleri kore dizileri, tayvan dizileri izle, çin dizileri izle, anime izle.",
+        "description": "Asya Fanatikleri, asya dizilerini izleme imkanÄ± sunar. Kore dizileri izle, asyafanatikleri kore dizileri, tayvan dizileri izle, Ã§in dizileri izle, anime izle.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/AsyaFanatiklerim.cs3",
         "name": "AsyaFanatiklerim"
     },
@@ -197,7 +197,7 @@
         ],
         "version": 17,
         "internalName": "AsyaMinik",
-        "description": "Asyaminik - En Güncel Asya Dizileri Burada!",
+        "description": "Asyaminik - En GÃ¼ncel Asya Dizileri Burada!",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/AsyaMinik.cs3",
         "name": "AsyaMinik"
     },
@@ -237,7 +237,7 @@
         ],
         "version": 17,
         "internalName": "BelgeselX",
-        "description": "En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
+        "description": "En yeni belgeseller, tÃ¼rkÃ§e altyazÄ±lÄ± yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/BelgeselX.cs3",
         "name": "BelgeselX"
     },
@@ -257,7 +257,7 @@
         ],
         "version": 10,
         "internalName": "CanliTV",
-        "description": "Canlı TV",
+        "description": "CanlÄ± TV",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/CanliTV.cs3",
         "name": "CanliTV"
     },
@@ -278,7 +278,7 @@
         ],
         "version": 16,
         "internalName": "CizgiMax",
-        "description": "ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
+        "description": "Ã‡izgiMax ile Ã‡izgi Film izlemek artÄ±k daha kolay, donmadan full hd ve reklamsÄ±z bir sitedir, iÃ§erisinde 700 den fazla Ã§izgi film olan, Bu site bu iÅŸi profesyonelce yapÄ±yor.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/CizgiMax.cs3",
         "name": "CizgiMax"
     },
@@ -298,7 +298,7 @@
         ],
         "version": 50,
         "internalName": "CizgiVeDizi",
-        "description": "Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
+        "description": "Ãœcretsiz bir ÅŸekilde Ã§izgi dizi, dizi, anime ve daha fazlasÄ±nÄ± eski-yeni demeden izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/CizgiVeDizi.cs3",
         "name": "CizgiVeDizi"
     },
@@ -323,7 +323,7 @@
         ],
         "version": 29,
         "internalName": "CloudStreamHub",
-        "description": "CloudStreamHub Aggregator - TMDB Keşif & CloudStream Sağlayıcılarını Birleştiren Eklenti",
+        "description": "CloudStreamHub Aggregator - TMDB KeÅŸif & CloudStream SaÄŸlayÄ±cÄ±larÄ±nÄ± BirleÅŸtiren Eklenti",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/CloudStreamHub.cs3",
         "name": "CloudStreamHub"
     },
@@ -342,7 +342,7 @@
         ],
         "version": 22,
         "internalName": "DDizi",
-        "description": "DDizi.im için Cloudstream eklentisi",
+        "description": "DDizi.im iÃ§in Cloudstream eklentisi",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DDizi.cs3",
         "name": "Ddizi"
     },
@@ -362,7 +362,7 @@
         ],
         "version": 4,
         "internalName": "DDizi - Latte",
-        "description": "Ddizi, dizi izle, dizi seyret, ddizi.im - Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz dizi izleme sitesi.",
+        "description": "Ddizi, dizi izle, dizi seyret, ddizi.im - GÃ¼ncel ve eski dizileri en iyi gÃ¶rÃ¼ntÃ¼ kalitesiyle bulabileceÄŸiniz dizi izleme sitesi.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DDizi_-_Latte.cs3",
         "name": "DDizi - Latte"
     },
@@ -381,7 +381,7 @@
         ],
         "version": 20,
         "internalName": "DiziAsia",
-        "description": "DiziAsia - Asya Dizileri İzle",
+        "description": "DiziAsia - Asya Dizileri Ä°zle",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziAsia.cs3",
         "name": "DiziAsia"
     },
@@ -400,7 +400,7 @@
         ],
         "version": 27,
         "internalName": "DiziAsya",
-        "description": "Asya'nın en iyi Çin ve Kore dizilerini ve filmlerini keşfedin! Romantizm, dram, aksiyon... Diziasya ile Asya kültürüne hemen adım atın!",
+        "description": "Asya'nÄ±n en iyi Ã‡in ve Kore dizilerini ve filmlerini keÅŸfedin! Romantizm, dram, aksiyon... Diziasya ile Asya kÃ¼ltÃ¼rÃ¼ne hemen adÄ±m atÄ±n!",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziAsya.cs3",
         "name": "DiziAsya"
     },
@@ -419,7 +419,7 @@
         ],
         "version": 23,
         "internalName": "DiziBox",
-        "description": "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
+        "description": "YabancÄ± Dizi izle, TÃ¼m yabancÄ± dizilerin yeni ve eski sezonlarÄ±nÄ± full hd izleyebileceÄŸiniz elit site.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziBox.cs3",
         "name": "DiziBox"
     },
@@ -439,7 +439,7 @@
         ],
         "version": 22,
         "internalName": "DiziFilmORG",
-        "description": "En yeni ve popüler yerli yabancı filmleri Türkçe dublaj ve altyazılı seçeneklerle Full HD kalitede, tek parça ve kesintisiz Dizifilm.org’da izle.",
+        "description": "En yeni ve popÃ¼ler yerli yabancÄ± filmleri TÃ¼rkÃ§e dublaj ve altyazÄ±lÄ± seÃ§eneklerle Full HD kalitede, tek parÃ§a ve kesintisiz Dizifilm.orgâ€™da izle.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziFilmORG.cs3",
         "name": "DiziFilmORG"
     },
@@ -460,7 +460,7 @@
         ],
         "version": 5,
         "internalName": "DiziFun - Latte",
-        "description": "Dizifun, yabancı dizi - film, yerli dizi - film , türkçe dublaj , türkçe altyazılı ve anime dizi - film izlemeniz için sizinledir.",
+        "description": "Dizifun, yabancÄ± dizi - film, yerli dizi - film , tÃ¼rkÃ§e dublaj , tÃ¼rkÃ§e altyazÄ±lÄ± ve anime dizi - film izlemeniz iÃ§in sizinledir.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziFun_-_Latte.cs3",
         "name": "DiziFun - Latte"
     },
@@ -481,7 +481,7 @@
         ],
         "version": 15,
         "internalName": "Dizigecesi",
-        "description": "Dizigecesi - Yabancı Dizi ve Film İzle",
+        "description": "Dizigecesi - YabancÄ± Dizi ve Film Ä°zle",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Dizigecesi.cs3",
         "name": "Dizigecesi"
     },
@@ -500,7 +500,7 @@
         ],
         "version": 9,
         "internalName": "DiziGom",
-        "description": "Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
+        "description": "TÃ¼rkÃ§e altyazÄ±lÄ± yabancÄ± dizi izle, TÃ¼m yabancÄ±, kore, netflix dizilerin yeni ve eski sezonlarÄ±nÄ± orijinal dilinde dizigom1 alt yazÄ±lÄ± film izleyebilir, sadece tÃ¼rkÃ§e altyazÄ±lÄ± en iyi yabancÄ± diziler ve filmler hakkÄ±nda yorum yapabilirsiniz.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziGom.cs3",
         "name": "DiziGom"
     },
@@ -519,7 +519,7 @@
         ],
         "version": 41,
         "internalName": "DiziKorea",
-        "description": "En Güncel Kore Dizileri izleme Sitesi",
+        "description": "En GÃ¼ncel Kore Dizileri izleme Sitesi",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziKorea.cs3",
         "name": "DiziKorea"
     },
@@ -541,7 +541,7 @@
         ],
         "version": 58,
         "internalName": "DiziLife",
-        "description": "Dizilife yabancı dizi ve film izlemek için tasarlanmış bir platformdur. Tüm dünyadan yerli/yabancı bütün dizileri ve filmleri ücretsiz ve donmadan izleyebilirsiniz.",
+        "description": "Dizilife yabancÄ± dizi ve film izlemek iÃ§in tasarlanmÄ±ÅŸ bir platformdur. TÃ¼m dÃ¼nyadan yerli/yabancÄ± bÃ¼tÃ¼n dizileri ve filmleri Ã¼cretsiz ve donmadan izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziLife.cs3",
         "name": "DiziLife"
     },
@@ -560,7 +560,7 @@
         ],
         "version": 92,
         "internalName": "Dizilla",
-        "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
+        "description": "Dizilla tÃ¼m yabancÄ± dizileri Ã¼cretsiz olarak TÃ¼rkÃ§e Dublaj ve altyazÄ±lÄ± seÃ§enekleri ile 1080P kalite izleyebileceÄŸiniz yeni nesil yabancÄ± dizi izleme siteniz.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Dizilla.cs3",
         "name": "Dizilla"
     },
@@ -579,7 +579,7 @@
         ],
         "version": 17,
         "internalName": "DiziMag",
-        "description": "En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
+        "description": "En son Ã§Ä±kan yabancÄ± dizi ve filmleri DiziMag farkÄ±yla full hd 1080p kalitede izle. Dizimag GeniÅŸ ve gÃ¼ncel arÅŸiviyle dizi ve filmlerin tadÄ±nÄ± Ã§Ä±kartÄ±n.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziMag.cs3",
         "name": "DiziMag"
     },
@@ -598,7 +598,7 @@
         ],
         "version": 63,
         "internalName": "DiziMom",
-        "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
+        "description": "Binlerce yerli yabancÄ± dizi arÅŸivi, tÃ¼m sezonlar, kesintisiz bÃ¶lÃ¼mler. Sadece dizi izle, Dizimom heryerde seninle!",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziMom.cs3",
         "name": "DiziMom"
     },
@@ -619,7 +619,7 @@
         ],
         "version": 113,
         "internalName": "DiziPal",
-        "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
+        "description": "en yeni dizileri gÃ¼venli ve hÄ±zlÄ± ÅŸekilde sunar.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziPal.cs3",
         "name": "DiziPal"
     },
@@ -640,7 +640,7 @@
         ],
         "version": 102,
         "internalName": "DiziPalOriginal",
-        "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
+        "description": "en yeni dizileri gÃ¼venli ve hÄ±zlÄ± ÅŸekilde sunar.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziPalOriginal.cs3",
         "name": "DiziPalOriginal"
     },
@@ -681,7 +681,7 @@
         ],
         "version": 3,
         "internalName": "DiziPod",
-        "description": "Yabancı dizi ve film izleme platformu. Altyazılı yabancı dizi ve film izle.",
+        "description": "YabancÄ± dizi ve film izleme platformu. AltyazÄ±lÄ± yabancÄ± dizi ve film izle.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziPod.cs3",
         "name": "DiziPod"
     },
@@ -720,7 +720,7 @@
         ],
         "version": 74,
         "internalName": "DiziYo",
-        "description": "Diziyo ile Yabancı Dizi, Film, Anime, Çizgi-Film izle.",
+        "description": "Diziyo ile YabancÄ± Dizi, Film, Anime, Ã‡izgi-Film izle.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziYo.cs3",
         "name": "DiziYo"
     },
@@ -739,7 +739,7 @@
         ],
         "version": 26,
         "internalName": "DiziYou",
-        "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
+        "description": "Diziyou en kaliteli TÃ¼rkÃ§e dublaj ve altyazÄ±lÄ± yabancÄ± dizi izleme sitesidir. GÃ¼ncel ve efsanevi dizileri 1080p Full HD kalitede izlemek iÃ§in hemen tÄ±kla!",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziYou.cs3",
         "name": "DiziYou"
     },
@@ -758,7 +758,7 @@
         ],
         "version": 2,
         "internalName": "DMax",
-        "description": "DMAX dizi ve programlarını takip etmek için ziyaret edin. DMAX dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
+        "description": "DMAX dizi ve programlarÄ±nÄ± takip etmek iÃ§in ziyaret edin. DMAX dizi ve programlarÄ±nÄ± tek parÃ§a ve hd kalitesiyle izleyin.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DMax.cs3",
         "name": "DMax"
     },
@@ -778,7 +778,7 @@
         ],
         "version": 15,
         "internalName": "DramaDizilerim",
-        "description": "DramaDizilerim - Kore, Çin ve Asya Kısa/Uzun Dizileri Türkçe Altyazılı",
+        "description": "DramaDizilerim - Kore, Ã‡in ve Asya KÄ±sa/Uzun Dizileri TÃ¼rkÃ§e AltyazÄ±lÄ±",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DramaDizilerim.cs3",
         "name": "DramaDizilerim"
     },
@@ -797,7 +797,7 @@
         ],
         "version": 11,
         "internalName": "FilmBip",
-        "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Filmbip heryerde seninle!",
+        "description": "Binlerce yerli yabancÄ± dizi arÅŸivi, tÃ¼m sezonlar, kesintisiz bÃ¶lÃ¼mler. Filmbip heryerde seninle!",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FilmBip.cs3",
         "name": "FilmBip"
     },
@@ -817,7 +817,7 @@
         ],
         "version": 50,
         "internalName": "FilmEkseni",
-        "description": "Film Ekseni ⚡ Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
+        "description": "Film Ekseni âš¡ Vizyonda ki, en gÃ¼ncel ve en yeni filmleri full hd kalitesinde tÃ¼rkÃ§e dublaj ve altyazÄ± seÃ§enekleriyle 1080p olarak izleyebileceÄŸiniz adresiniz.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FilmEkseni.cs3",
         "name": "FilmEkseni"
     },
@@ -857,7 +857,7 @@
         ],
         "version": 5,
         "internalName": "FilmIzleIlk",
-        "description": "Filmizleilk.com Yerli ve Yabancı en son Film ve Dizileri Full HD 1080p Bluray Tek Part Full izle",
+        "description": "Filmizleilk.com Yerli ve YabancÄ± en son Film ve Dizileri Full HD 1080p Bluray Tek Part Full izle",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FilmIzleIlk.cs3",
         "name": "FilmIzleIlk"
     },
@@ -875,10 +875,10 @@
             "Movie"
         ],
         "version": 3,
-        "internalName": "Filmİzlesene",
-        "description": "Filmizlesene ile hızlı film izleme fırsatını yakala, en yeni ve iyi filmleri Full HD 1080p kalitesiyle online ve bedava izle",
+        "internalName": "FilmÄ°zlesene",
+        "description": "Filmizlesene ile hÄ±zlÄ± film izleme fÄ±rsatÄ±nÄ± yakala, en yeni ve iyi filmleri Full HD 1080p kalitesiyle online ve bedava izle",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FilmIzlesene.cs3",
-        "name": "Filmİzlesene"
+        "name": "FilmÄ°zlesene"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=filmkovasi.tv&sz=128",
@@ -895,7 +895,7 @@
         ],
         "version": 3,
         "internalName": "FilmKovasi",
-        "description": "Film Kovasi ⚡ ile en güncel ve sorunsuz Full HD Film izle keyfi her yerde seninle! 1080p online film izleme ayrıcalığıyla Film Kovası'nın Tadını Çıkarın.",
+        "description": "Film Kovasi âš¡ ile en gÃ¼ncel ve sorunsuz Full HD Film izle keyfi her yerde seninle! 1080p online film izleme ayrÄ±calÄ±ÄŸÄ±yla Film KovasÄ±'nÄ±n TadÄ±nÄ± Ã‡Ä±karÄ±n.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FilmKovasi.cs3",
         "name": "FilmKovasi"
     },
@@ -915,7 +915,7 @@
         ],
         "version": 59,
         "internalName": "FilmMakinesi",
-        "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
+        "description": "Film Makinesi, en yeni ve en gÃ¼ncel filmleri sitemizde full HD kalite farkÄ± ile izleyebilirsiniz. HD film izle denildiÄŸinde akla gelen en kaliteli film izleme sitesi.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FilmMakinesi.cs3",
         "name": "FilmMakinesi"
     },
@@ -933,10 +933,10 @@
             "Documentary"
         ],
         "version": 5,
-        "internalName": "Filmmirasım",
-        "description": "Kültür ve Turizm Bakanlığı, kültürel mirasımızın görsel belleğini oluşturan filmlerin muhafazası ve gelecek kuşaklara aktarılması amacıyla Sinema Genel Müdürlüğü bünyesinde oluşturduğu arşivdeki filmleri dijital ortama aktarmakta ve restore etmektedir. ",
+        "internalName": "FilmmirasÄ±m",
+        "description": "KÃ¼ltÃ¼r ve Turizm BakanlÄ±ÄŸÄ±, kÃ¼ltÃ¼rel mirasÄ±mÄ±zÄ±n gÃ¶rsel belleÄŸini oluÅŸturan filmlerin muhafazasÄ± ve gelecek kuÅŸaklara aktarÄ±lmasÄ± amacÄ±yla Sinema Genel MÃ¼dÃ¼rlÃ¼ÄŸÃ¼ bÃ¼nyesinde oluÅŸturduÄŸu arÅŸivdeki filmleri dijital ortama aktarmakta ve restore etmektedir. ",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Filmmirasim.cs3",
-        "name": "Filmmirasım"
+        "name": "FilmmirasÄ±m"
     },
     {
         "iconUrl": "https://www.filmmodu.one/icon/favicon.ico",
@@ -953,7 +953,7 @@
         ],
         "version": 19,
         "internalName": "FilmModu",
-        "description": "Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
+        "description": "Film modun geldiyse yÃ¼ksek kalitede en yeni filmleri izle, 1080p izleyebileceÄŸiniz reklamsiz film sitesi.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FilmModu.cs3",
         "name": "FilmModu"
     },
@@ -973,7 +973,7 @@
         ],
         "version": 36,
         "internalName": "FullHDFilm",
-        "description": "Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Özgün film arşivimizle en üstün kaliteli film izle keyfini sunuyoruz.",
+        "description": "Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Ã–zgÃ¼n film arÅŸivimizle en Ã¼stÃ¼n kaliteli film izle keyfini sunuyoruz.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FullHDFilm.cs3",
         "name": "FullHDFilm"
     },
@@ -991,10 +991,10 @@
             "Movie"
         ],
         "version": 5,
-        "internalName": "FullHDFilmİzlede",
-        "description": "En güncel ve popüler filmleri Full HD kalitesinde, Türkçe altyazılı veya Türkçe dublaj seçenekleriyle izleyebileceğiniz tek adres! Sinema tutkunları için en özel film deneyimini yaşamak için fullhdfilmizlede.net",
+        "internalName": "FullHDFilmÄ°zlede",
+        "description": "En gÃ¼ncel ve popÃ¼ler filmleri Full HD kalitesinde, TÃ¼rkÃ§e altyazÄ±lÄ± veya TÃ¼rkÃ§e dublaj seÃ§enekleriyle izleyebileceÄŸiniz tek adres! Sinema tutkunlarÄ± iÃ§in en Ã¶zel film deneyimini yaÅŸamak iÃ§in fullhdfilmizlede.net",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FullHDFilmIzlede.cs3",
-        "name": "FullHDFilmİzlede"
+        "name": "FullHDFilmÄ°zlede"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=128",
@@ -1011,7 +1011,7 @@
         ],
         "version": 33,
         "internalName": "FullHDFilmizlesene",
-        "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
+        "description": "Sinema zevkini evinize kadar getirdik. TÃ¼rkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FullHDFilmizlesene.cs3",
         "name": "FullHDFilmizlesene"
     },
@@ -1030,7 +1030,7 @@
         ],
         "version": 15,
         "internalName": "GinikoCanli",
-        "description": "Vpn Gerekli! Dünyanın tüm ülkelerinden ücretsiz çevrimiçi TV.",
+        "description": "Vpn Gerekli! DÃ¼nyanÄ±n tÃ¼m Ã¼lkelerinden Ã¼cretsiz Ã§evrimiÃ§i TV.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/GinikoCanli.cs3",
         "name": "GinikoCanli"
     },
@@ -1049,7 +1049,7 @@
         ],
         "version": 3,
         "internalName": "GoFilmIzle - Latte",
-        "description": "GoFilmizle | Yerli ve Yabancı Full HD Film izleme Sitesi - Diziler çalışmaz.",
+        "description": "GoFilmizle | Yerli ve YabancÄ± Full HD Film izleme Sitesi - Diziler Ã§alÄ±ÅŸmaz.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/GoFilmIzle_-_Latte.cs3",
         "name": "GoFilmIzle - Latte"
     },
@@ -1069,7 +1069,7 @@
         ],
         "version": 6,
         "internalName": "GolgeTV",
-        "description": "GolgeTV cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
+        "description": "GolgeTV cloudstream eklentisidir. SevdiÄŸiniz yayÄ±n platformlarÄ±nÄ± ve canlÄ± maÃ§larÄ± burada bulabilirsiniz.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/GolgeTV.cs3",
         "name": "GolgeTV"
     },
@@ -1088,9 +1088,8 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 58,
-        "internalName": "HDFilmCehennemi",
-        "description": "Türkiye'nin en hızlı hd film izleme sitesi",
+        "version": 59,        "internalName": "HDFilmCehennemi",        "fileSize": 23758,
+        "description": "TÃ¼rkiye'nin en hÄ±zlÄ± hd film izleme sitesi",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HDFilmCehennemi.cs3",
         "name": "HDFilmCehennemi"
     },
@@ -1109,7 +1108,7 @@
         ],
         "version": 7,
         "internalName": "HDFilmCehennemi2",
-        "description": "Full hd film izleme keyfini hdfilmcehennemi2 ile yaşayın. Türkiyenin en güncel yüksek hd kalitede film izleme sitesi.",
+        "description": "Full hd film izleme keyfini hdfilmcehennemi2 ile yaÅŸayÄ±n. TÃ¼rkiyenin en gÃ¼ncel yÃ¼ksek hd kalitede film izleme sitesi.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HDFilmCehennemi2.cs3",
         "name": "HDFilmCehennemi2"
     },
@@ -1129,7 +1128,7 @@
         ],
         "version": 1,
         "internalName": "HDFilmDelisi",
-        "description": "HD Film Delisi - Türkçe Filmler",
+        "description": "HD Film Delisi - TÃ¼rkÃ§e Filmler",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HDFilmDelisi.cs3",
         "name": "HDFilmDelisi"
     },
@@ -1149,7 +1148,7 @@
         ],
         "version": 7,
         "internalName": "HDFilmIzle",
-        "description": "HDFilmizle ile Full HD izle, 1080p kalitede Yerli ve Yabancı filmlerle Türkçe dublaj veya Altyazı olarak kesintisiz film izlemenin tadını çıkarın.",
+        "description": "HDFilmizle ile Full HD izle, 1080p kalitede Yerli ve YabancÄ± filmlerle TÃ¼rkÃ§e dublaj veya AltyazÄ± olarak kesintisiz film izlemenin tadÄ±nÄ± Ã§Ä±karÄ±n.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HDFilmIzle.cs3",
         "name": "HDFilmIzle"
     },
@@ -1168,7 +1167,7 @@
         ],
         "version": 18,
         "internalName": "HDFilmSitesi",
-        "description": "Film izle, Hdfilmsitesi ile Online 1080p ve 4K kalite Full HD Filmlere Türkçe Dublaj ve Altyazılı olarak Reklamsız Kesintisiz HD Film izle.",
+        "description": "Film izle, Hdfilmsitesi ile Online 1080p ve 4K kalite Full HD Filmlere TÃ¼rkÃ§e Dublaj ve AltyazÄ±lÄ± olarak ReklamsÄ±z Kesintisiz HD Film izle.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HDFilmSitesi.cs3",
         "name": "HDFilmSitesi"
     },
@@ -1188,7 +1187,7 @@
         ],
         "version": 2,
         "internalName": "HintFilmIzle",
-        "description": "HintFilmİzle.com için Hint film ve dizi eklentisi",
+        "description": "HintFilmÄ°zle.com iÃ§in Hint film ve dizi eklentisi",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HintFilmIzle.cs3",
         "name": "HintFilmIzle"
     },
@@ -1208,7 +1207,7 @@
         ],
         "version": 1,
         "internalName": "HRAnime",
-        "description": "HR Anime - Toplu Türkçe Anime Kaynakları",
+        "description": "HR Anime - Toplu TÃ¼rkÃ§e Anime KaynaklarÄ±",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HRAnime.cs3",
         "name": "HRAnime"
     },
@@ -1250,7 +1249,7 @@
         ],
         "version": 1,
         "internalName": "HRKids",
-        "description": "HR Kids - Toplu Çizgi Film, Animasyon & Çocuk İçerikleri",
+        "description": "HR Kids - Toplu Ã‡izgi Film, Animasyon & Ã‡ocuk Ä°Ã§erikleri",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HRKids.cs3",
         "name": "HRKids"
     },
@@ -1269,7 +1268,7 @@
         ],
         "version": 1,
         "internalName": "HRLive",
-        "description": "HR Live - Toplu Canlı TV",
+        "description": "HR Live - Toplu CanlÄ± TV",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HRLive.cs3",
         "name": "HRLive"
     },
@@ -1288,7 +1287,7 @@
         ],
         "version": 2,
         "internalName": "HRSeries",
-        "description": "HR Series - Toplu Dizi Kaynakları",
+        "description": "HR Series - Toplu Dizi KaynaklarÄ±",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HRSeries.cs3",
         "name": "HRSeries"
     },
@@ -1310,7 +1309,7 @@
         ],
         "version": 5,
         "internalName": "HRShortDrama",
-        "description": "HR ShortDrama - Toplu Kısa Dizi & Drama Kaynakları",
+        "description": "HR ShortDrama - Toplu KÄ±sa Dizi & Drama KaynaklarÄ±",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HRShortDrama.cs3",
         "name": "HRShortDrama"
     },
@@ -1332,7 +1331,7 @@
         ],
         "version": 30,
         "internalName": "InatBox",
-        "description": "İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
+        "description": "Ä°natBox cloudstream eklentisidir. SevdiÄŸiniz yayÄ±n platformlarÄ±nÄ± ve canlÄ± maÃ§larÄ± burada bulabilirsiniz.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/InatBox.cs3",
         "name": "InatBox"
     },
@@ -1370,7 +1369,7 @@
         ],
         "version": 6,
         "internalName": "IzleAI",
-        "description": "1080P yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleri ile Türkiye'nin en geniş film arşivi 720pizle Full hd film izle.",
+        "description": "1080P yabancÄ± film izle, TÃ¼rkÃ§e dublaj ve TÃ¼rkÃ§e altyazÄ±lÄ± film seÃ§enekleri ile TÃ¼rkiye'nin en geniÅŸ film arÅŸivi 720pizle Full hd film izle.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/IzleAI.cs3",
         "name": "IzleAI"
     },
@@ -1389,7 +1388,7 @@
         ],
         "version": 47,
         "internalName": "JetFilmizle",
-        "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
+        "description": "Binlerce Film Ä°zleme SeÃ§eneÄŸiyle En Ä°yi Film Ä°zleme Sitesi",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/JetFilmizle.cs3",
         "name": "JetFilmizle"
     },
@@ -1409,10 +1408,10 @@
             "Movie"
         ],
         "version": 3,
-        "internalName": "KICK Türkiye - Latte",
-        "description": "Kick'teki Türkçe canlı yayınlar ve popüler yayıncıları canlı izleyin. Arayın, bulun  ve izlemeye devam edin.",
+        "internalName": "KICK TÃ¼rkiye - Latte",
+        "description": "Kick'teki TÃ¼rkÃ§e canlÄ± yayÄ±nlar ve popÃ¼ler yayÄ±ncÄ±larÄ± canlÄ± izleyin. ArayÄ±n, bulun  ve izlemeye devam edin.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/KICK_Turkiye_-_Latte.cs3",
-        "name": "KICK Türkiye - Latte"
+        "name": "KICK TÃ¼rkiye - Latte"
     },
     {
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kick.com&size=48",
@@ -1430,7 +1429,7 @@
         ],
         "version": 17,
         "internalName": "KickTR",
-        "description": "Kick, canlı yayın yapılan bir platformdur. Daha gevşek kuralları ve yayıncılara daha fazla kazanç sağlamasıyla bilinir. Platform, yayıncılardan sadece %5 kesinti yapar ve bu oran diğer yayın platformlarına göre en düşük kesintilerden biridir.",
+        "description": "Kick, canlÄ± yayÄ±n yapÄ±lan bir platformdur. Daha gevÅŸek kurallarÄ± ve yayÄ±ncÄ±lara daha fazla kazanÃ§ saÄŸlamasÄ±yla bilinir. Platform, yayÄ±ncÄ±lardan sadece %5 kesinti yapar ve bu oran diÄŸer yayÄ±n platformlarÄ±na gÃ¶re en dÃ¼ÅŸÃ¼k kesintilerden biridir.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/KickTR.cs3",
         "name": "KickTR"
     },
@@ -1449,7 +1448,7 @@
         ],
         "version": 7,
         "internalName": "KoreanTurk",
-        "description": "Güney Kore sevdalılarının vazgeçemediği ve Türkiye'nin en çok ziyaret edilen Güney Kore Portalı; Koreantürk'e hoşgeldiniz!",
+        "description": "GÃ¼ney Kore sevdalÄ±larÄ±nÄ±n vazgeÃ§emediÄŸi ve TÃ¼rkiye'nin en Ã§ok ziyaret edilen GÃ¼ney Kore PortalÄ±; KoreantÃ¼rk'e hoÅŸgeldiniz!",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/KoreanTurk.cs3",
         "name": "KoreanTurk"
     },
@@ -1476,7 +1475,7 @@
         ],
         "version": 86,
         "internalName": "KraptorPlus",
-        "description": "Bir çok sitenin birleştiği toplama eklenti.",
+        "description": "Bir Ã§ok sitenin birleÅŸtiÄŸi toplama eklenti.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/KraptorPlus.cs3",
         "name": "KraptorPlus"
     },
@@ -1496,7 +1495,7 @@
         ],
         "version": 16,
         "internalName": "KultFilmler",
-        "description": "Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
+        "description": "KÃ¼lt Filmler Ã¶zenle en iyi filmleri derler ve iyi bir altyazÄ±lÄ± film izleme deneyimi sunmayÄ± amaÃ§lar",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/KultFilmler.cs3",
         "name": "KultFilmler"
     },
@@ -1518,7 +1517,7 @@
         ],
         "version": 38,
         "internalName": "MirrorVerse",
-        "description": "Netflix, Disney+ ve Primevideo eklentileri tek bir eklentide kendisi bir eklenti degildir bu 3 eklentiyi kurar, tüm eklentilerde altyazı netflixde dublaj desteği var.",
+        "description": "Netflix, Disney+ ve Primevideo eklentileri tek bir eklentide kendisi bir eklenti degildir bu 3 eklentiyi kurar, tÃ¼m eklentilerde altyazÄ± netflixde dublaj desteÄŸi var.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/MirrorVerse.cs3",
         "name": "MirrorVerse"
     },
@@ -1537,10 +1536,10 @@
             "Live"
         ],
         "version": 3,
-        "internalName": "Müzik TV ve Radyo - Latte",
-        "description": "Müzik Kanallarına özel canlı tv eklentisidir.",
+        "internalName": "MÃ¼zik TV ve Radyo - Latte",
+        "description": "MÃ¼zik KanallarÄ±na Ã¶zel canlÄ± tv eklentisidir.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Muzik_TV_ve_Radyo_-_Latte.cs3",
-        "name": "Müzik TV ve Radyo - Latte"
+        "name": "MÃ¼zik TV ve Radyo - Latte"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png",
@@ -1560,7 +1559,7 @@
         ],
         "version": 3,
         "internalName": "myway TV - Latte",
-        "description": "Sinetech.tr Forum myway canlı tv listesi",
+        "description": "Sinetech.tr Forum myway canlÄ± tv listesi",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/myway_TV_-_Latte.cs3",
         "name": "myway TV - Latte"
     },
@@ -1579,7 +1578,7 @@
         ],
         "version": 13,
         "internalName": "OnePaceTr",
-        "description": "One Pace türkçe altyazılı izleme platformu.",
+        "description": "One Pace tÃ¼rkÃ§e altyazÄ±lÄ± izleme platformu.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/OnePaceTr.cs3",
         "name": "OnePaceTr"
     },
@@ -1600,7 +1599,7 @@
         ],
         "version": 28,
         "internalName": "OpenAnime",
-        "description": "Anime izleme deneyiminizi zenginleştiren, hızlı ve etkileyici özelliklerle donatılmış, şık bir tasarıma sahip anime platformu. Anime izleme deneyiminiz, kolaylaştırıldı.",
+        "description": "Anime izleme deneyiminizi zenginleÅŸtiren, hÄ±zlÄ± ve etkileyici Ã¶zelliklerle donatÄ±lmÄ±ÅŸ, ÅŸÄ±k bir tasarÄ±ma sahip anime platformu. Anime izleme deneyiminiz, kolaylaÅŸtÄ±rÄ±ldÄ±.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/OpenAnime.cs3",
         "name": "OpenAnime"
     },
@@ -1621,7 +1620,7 @@
         ],
         "version": 6,
         "internalName": "powerboard Dizi - Latte",
-        "description": "powerboard`un yabancı dizi arşivi",
+        "description": "powerboard`un yabancÄ± dizi arÅŸivi",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/powerboard_Dizi_-_Latte.cs3",
         "name": "powerboard Dizi - Latte"
     },
@@ -1642,7 +1641,7 @@
         ],
         "version": 5,
         "internalName": "powerboard Sinema - Latte",
-        "description": "powerboard`un sinema arşivi",
+        "description": "powerboard`un sinema arÅŸivi",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/powerboard_Sinema_-_Latte.cs3",
         "name": "powerboard Sinema - Latte"
     },
@@ -1705,7 +1704,7 @@
         ],
         "version": 113,
         "internalName": "RecTV",
-        "description": "RecTv APK, Türkiye'deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
+        "description": "RecTv APK, TÃ¼rkiye'deki en popÃ¼ler Ã‡evrimiÃ§i Medya AkÄ±ÅŸ platformlarÄ±ndan biridir. Filmlerin, CanlÄ± SporlarÄ±n, Web Dizilerinin ve Ã§ok daha fazlasÄ±nÄ±n keyfini Ã¼cretsiz Ã§Ä±karÄ±n.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/RecTV.cs3",
         "name": "RecTV"
     },
@@ -1724,7 +1723,7 @@
         ],
         "version": 15,
         "internalName": "RoketDizi",
-        "description": "Türkiye'nin en tatlış yabancı dizi izleme sitesi. Türkçe dublaj, altyazılı, eski ve yeni yabancı dizilerin yanı sıra kore (asya) dizileri izleyebilirsiniz.",
+        "description": "TÃ¼rkiye'nin en tatlÄ±ÅŸ yabancÄ± dizi izleme sitesi. TÃ¼rkÃ§e dublaj, altyazÄ±lÄ±, eski ve yeni yabancÄ± dizilerin yanÄ± sÄ±ra kore (asya) dizileri izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/RoketDizi.cs3",
         "name": "RoketDizi"
     },
@@ -1745,7 +1744,7 @@
         ],
         "version": 25,
         "internalName": "SeiCode",
-        "description": "Seicode ile en yeni animeler keşfedin!",
+        "description": "Seicode ile en yeni animeler keÅŸfedin!",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/SeiCode.cs3",
         "name": "SeiCode"
     },
@@ -1765,7 +1764,7 @@
         ],
         "version": 6,
         "internalName": "SelcukFlix",
-        "description": "Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
+        "description": "Selcukflix'te her tÃ¼rden en yeni ve en popÃ¼ler dizi ve filmleri izlemenin keyfini Ã§Ä±karÄ±n. Aksiyondan romantiÄŸe, bilim kurgudan dramaya, geniÅŸ kÃ¼tÃ¼phanemizde herkes iÃ§in bir ÅŸey var.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/SelcukFlix.cs3",
         "name": "SelcukFlix"
     },
@@ -1785,7 +1784,7 @@
         ],
         "version": 32,
         "internalName": "SetFilmIzle",
-        "description": "Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
+        "description": "Setfilmizle sitemizde, donma yaÅŸamadan TÃ¼rkÃ§e dublaj ve altyazÄ±lÄ± filmleri ile dizileri muhteÅŸem 1080p full HD kalitesinde izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/SetFilmIzle.cs3",
         "name": "SetFilmIzle"
     },
@@ -1806,7 +1805,7 @@
         ],
         "version": 9,
         "internalName": "SezonlukDizi",
-        "description": "Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
+        "description": "GÃ¼ncel ve eski dizileri en iyi gÃ¶rÃ¼ntÃ¼ kalitesiyle bulabileceÄŸiniz yabancÄ± dizi izleme siteniz.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/SezonlukDizi.cs3",
         "name": "SezonlukDizi"
     },
@@ -1844,7 +1843,7 @@
         ],
         "version": 25,
         "internalName": "SinemaCX",
-        "description": "Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
+        "description": "GÃ¼ncel ve en iyi yabancÄ± filmleri yÃ¼ksek gÃ¶rÃ¼ntÃ¼ kalitesinde, TÃ¼rkÃ§e dublaj ve altyazÄ± seÃ§enekleriyle filmleri full izleyin.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/SinemaCX.cs3",
         "name": "SinemaCX"
     },
@@ -1865,7 +1864,7 @@
         ],
         "version": 3,
         "internalName": "SineWix",
-        "description": "SineWix | Film - Dizi - Anime İzleme Uygulaması",
+        "description": "SineWix | Film - Dizi - Anime Ä°zleme UygulamasÄ±",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/SineWix.cs3",
         "name": "SineWix"
     },
@@ -1884,7 +1883,7 @@
         ],
         "version": 40,
         "internalName": "Sinezy",
-        "description": "Yerli ve yabancı film izle! Türkçe Dublaj ve Alt Yazılı Seçenekleriyle full hd film izlemek için En çok tercih edilen adres!",
+        "description": "Yerli ve yabancÄ± film izle! TÃ¼rkÃ§e Dublaj ve Alt YazÄ±lÄ± SeÃ§enekleriyle full hd film izlemek iÃ§in En Ã§ok tercih edilen adres!",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Sinezy.cs3",
         "name": "Sinezy"
     },
@@ -1903,7 +1902,7 @@
         ],
         "version": 8,
         "internalName": "SSportPlus",
-        "description": "SSport+ canlı yayınları ve arşiv içerikleri",
+        "description": "SSport+ canlÄ± yayÄ±nlarÄ± ve arÅŸiv iÃ§erikleri",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/SSportPlus.cs3",
         "name": "SSportPlus"
     },
@@ -1923,7 +1922,7 @@
         ],
         "version": 24,
         "internalName": "SuperFilmGeldi",
-        "description": "Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
+        "description": "Hd film izliyerek arkadaÅŸlarÄ±nÄ±zla ve sevdiklerinizle iyi bir vakit geÃ§irmek istiyorsanÄ±z aÃ§Ä±n bir film eÄŸlenmeye bakÄ±n. Bilim kurgu filmleri, aÅŸk drama vahÅŸet aÅŸk romantik sÄ±radÄ±ÅŸÄ± korku filmlerini izle.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/SuperFilmGeldi.cs3",
         "name": "SuperFilmGeldi"
     },
@@ -1943,7 +1942,7 @@
         ],
         "version": 9,
         "internalName": "Tabii",
-        "description": "Tabii içeriklerine bu eklenti sayesinde erişebilirsiniz",
+        "description": "Tabii iÃ§eriklerine bu eklenti sayesinde eriÅŸebilirsiniz",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Tabii.cs3",
         "name": "Tabii"
     },
@@ -1962,7 +1961,7 @@
         ],
         "version": 3,
         "internalName": "Tafdi",
-        "description": "Türkçe altyazılı film izle, full hd olarak film izlemenin keyfini çıkarın. Türkiyenin en büyük film izleme platformu tafdi kalitesiyle sizlerle.",
+        "description": "TÃ¼rkÃ§e altyazÄ±lÄ± film izle, full hd olarak film izlemenin keyfini Ã§Ä±karÄ±n. TÃ¼rkiyenin en bÃ¼yÃ¼k film izleme platformu tafdi kalitesiyle sizlerle.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Tafdi.cs3",
         "name": "Tafdi"
     },
@@ -1981,7 +1980,7 @@
         ],
         "version": 1,
         "internalName": "TLC",
-        "description": "TLC TV dizi ve programlarını takip etmek için ziyaret edin. TLC TV dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
+        "description": "TLC TV dizi ve programlarÄ±nÄ± takip etmek iÃ§in ziyaret edin. TLC TV dizi ve programlarÄ±nÄ± tek parÃ§a ve hd kalitesiyle izleyin.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TLC.cs3",
         "name": "TLC"
     },
@@ -2020,7 +2019,7 @@
         ],
         "version": 2,
         "internalName": "TorrentFilm",
-        "description": "Türkçe altyazılı torrentleri buradan 4K kalitesinde izleyebilirsiniz.",
+        "description": "TÃ¼rkÃ§e altyazÄ±lÄ± torrentleri buradan 4K kalitesinde izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TorrentFilm.cs3",
         "name": "TorrentFilm"
     },
@@ -2040,7 +2039,7 @@
         ],
         "version": 19,
         "internalName": "TRanimaci",
-        "description": "TRanimeci - Türkiye'nin Online Anime izleme sitesi.",
+        "description": "TRanimeci - TÃ¼rkiye'nin Online Anime izleme sitesi.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TRanimaci.cs3",
         "name": "TRanimaci"
     },
@@ -2078,7 +2077,7 @@
         ],
         "version": 14,
         "internalName": "TurkAnime",
-        "description": "Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
+        "description": "TÃ¼rk Anime TV - TÃ¼rkiye'nin Online Anime izleme sitesi.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TurkAnime.cs3",
         "name": "TurkAnime"
     },
@@ -2097,7 +2096,7 @@
         ],
         "version": 33,
         "internalName": "Turkdizileri",
-        "description": "TRT1, Showtv, Kanal D ve daha fazla site tek bir eklentide birleşiyor.",
+        "description": "TRT1, Showtv, Kanal D ve daha fazla site tek bir eklentide birleÅŸiyor.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Turkdizileri.cs3",
         "name": "Turkdizileri"
     },
@@ -2124,7 +2123,7 @@
         ],
         "version": 10,
         "internalName": "TurkishMix",
-        "description": "Tek arama sonucu; Bir içeriğe girince tüm kaynaklardan linkleri toplar. Film, Dizi, Anime, Canlı TV.",
+        "description": "Tek arama sonucu; Bir iÃ§eriÄŸe girince tÃ¼m kaynaklardan linkleri toplar. Film, Dizi, Anime, CanlÄ± TV.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TurkishMix.cs3",
         "name": "TurkishMix"
     },
@@ -2150,7 +2149,7 @@
         ],
         "version": 85,
         "internalName": "TurkishW",
-        "description": "Tek arama sonucu (TurkishW); bir içeriğe girince tüm kaynaklardan linkleri toplar. Film, Dizi, Anime + Canlı TV.",
+        "description": "Tek arama sonucu (TurkishW); bir iÃ§eriÄŸe girince tÃ¼m kaynaklardan linkleri toplar. Film, Dizi, Anime + CanlÄ± TV.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TurkishW.cs3",
         "name": "TurkishW"
     },
@@ -2165,7 +2164,7 @@
         "tvTypes": [],
         "version": 2,
         "internalName": "TurkMegaSaglayici",
-        "description": "Bu eklenti, uygulama her açıldığında tüm depoları ekler. Eğer tüm depoları eklemek istemiyorsanız, tek bir çalıştırmadan sonra eklentiyi kaldırın. Depo listesi otomatik olarak yenilenmez.",
+        "description": "Bu eklenti, uygulama her aÃ§Ä±ldÄ±ÄŸÄ±nda tÃ¼m depolarÄ± ekler. EÄŸer tÃ¼m depolarÄ± eklemek istemiyorsanÄ±z, tek bir Ã§alÄ±ÅŸtÄ±rmadan sonra eklentiyi kaldÄ±rÄ±n. Depo listesi otomatik olarak yenilenmez.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TurkMegaSaglayici.cs3",
         "name": "TurkMegaSaglayici"
     },
@@ -2186,7 +2185,7 @@
         ],
         "version": 6,
         "internalName": "TurkSCanliTV",
-        "description": "TurkS Canlı TV",
+        "description": "TurkS CanlÄ± TV",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TurkSCanliTV.cs3",
         "name": "TurkSCanliTV"
     },
@@ -2206,10 +2205,10 @@
             "Live"
         ],
         "version": 3,
-        "internalName": "Tv Bahçesi - Latte",
-        "description": "TvGarden televizyon listesi. @keyiflerolsun Canlı TV eklentisinden yararlanılmıştır.",
+        "internalName": "Tv BahÃ§esi - Latte",
+        "description": "TvGarden televizyon listesi. @keyiflerolsun CanlÄ± TV eklentisinden yararlanÄ±lmÄ±ÅŸtÄ±r.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Tv_Bahcesi_-_Latte.cs3",
-        "name": "Tv Bahçesi - Latte"
+        "name": "Tv BahÃ§esi - Latte"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=tvdiziler.cc&sz=128",
@@ -2226,7 +2225,7 @@
         ],
         "version": 4,
         "internalName": "TvDiziler",
-        "description": "Ücretsiz yerli dizi izleme sitesi en popüler dizileri tek parça hd kalitesiyle ve reklamsız bedava olarak buradan tv dizileri izleyin.",
+        "description": "Ãœcretsiz yerli dizi izleme sitesi en popÃ¼ler dizileri tek parÃ§a hd kalitesiyle ve reklamsÄ±z bedava olarak buradan tv dizileri izleyin.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TvDiziler.cs3",
         "name": "TvDiziler"
     },
@@ -2245,7 +2244,7 @@
         ],
         "version": 13,
         "internalName": "UgurFilm",
-        "description": "Yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleriyle 720p ve 1080p HD kalitesinde film izle - Uğur Film full hd film izle.",
+        "description": "YabancÄ± film izle, TÃ¼rkÃ§e dublaj ve TÃ¼rkÃ§e altyazÄ±lÄ± film seÃ§enekleriyle 720p ve 1080p HD kalitesinde film izle - UÄŸur Film full hd film izle.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/UgurFilm.cs3",
         "name": "UgurFilm"
     },
@@ -2284,7 +2283,7 @@
         ],
         "version": 15,
         "internalName": "WebDramaTurkey",
-        "description": "WebDramaTurkey - Asya Dizileri ve Web Drama Arşivi Türkçe Altyazılı",
+        "description": "WebDramaTurkey - Asya Dizileri ve Web Drama ArÅŸivi TÃ¼rkÃ§e AltyazÄ±lÄ±",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/WebDramaTurkey.cs3",
         "name": "WebDramaTurkey"
     },
@@ -2307,7 +2306,7 @@
         ],
         "version": 3,
         "internalName": "WebDramaTurkey - Latte",
-        "description": "Kore, Çin ve Japon yapımı filmleri Web Drama Turkey üzerinden Türkçe altyazılı olarak izleyebilirsiniz. Kore filmi izle, Çin filmi izle, Asya filmleri izle.",
+        "description": "Kore, Ã‡in ve Japon yapÄ±mÄ± filmleri Web Drama Turkey Ã¼zerinden TÃ¼rkÃ§e altyazÄ±lÄ± olarak izleyebilirsiniz. Kore filmi izle, Ã‡in filmi izle, Asya filmleri izle.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/WebDramaTurkey_-_Latte.cs3",
         "name": "WebDramaTurkey - Latte"
     },
@@ -2329,7 +2328,7 @@
         ],
         "version": 1,
         "internalName": "WebdramaTurkey2",
-        "description": "WebdramaTurkey2 İçerikleri",
+        "description": "WebdramaTurkey2 Ä°Ã§erikleri",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/WebdramaTurkey2.cs3",
         "name": "WebdramaTurkey2"
     },
@@ -2349,7 +2348,7 @@
         ],
         "version": 59,
         "internalName": "WebteIzle",
-        "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
+        "description": "Her tÃ¼rlÃ¼ filmi ister dublaj ister altyazÄ±lÄ±, en kaliteli bir ÅŸekilde izleyebileceÄŸiniz arÅŸivi en geniÅŸ gerÃ§ek film izleme siteniz.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/WebteIzle.cs3",
         "name": "WebteIzle"
     },
@@ -2367,10 +2366,10 @@
             "Movie"
         ],
         "version": 7,
-        "internalName": "WFilmİzle",
-        "description": "Aile Filmleri izle, Yerli ve yabancı en yeni Aile filmlerini Full HD 1080p görüntü kalitesiyle Türkçe Dublaj ve Türkçe Altyazı seçenekleriyle izleyin.",
+        "internalName": "WFilmÄ°zle",
+        "description": "Aile Filmleri izle, Yerli ve yabancÄ± en yeni Aile filmlerini Full HD 1080p gÃ¶rÃ¼ntÃ¼ kalitesiyle TÃ¼rkÃ§e Dublaj ve TÃ¼rkÃ§e AltyazÄ± seÃ§enekleriyle izleyin.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/WFilmIzle.cs3",
-        "name": "WFilmİzle"
+        "name": "WFilmÄ°zle"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=xprime.tv&sz=128",
@@ -2406,7 +2405,7 @@
         ],
         "version": 8,
         "internalName": "YabanciDizi",
-        "description": "Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
+        "description": "Son Ã§Ä±kan yabancÄ± dizi ve filmleri yabancidizi' de izle. En yeni yabancÄ± film ve diziler, tÃ¼rkÃ§e altyazÄ±lÄ± yada dublaj olarak 1080p kalitesinde hd izle.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/YabanciDizi.cs3",
         "name": "YabanciDizi"
     },
@@ -2427,7 +2426,7 @@
         ],
         "version": 11,
         "internalName": "YeniKaynak",
-        "description": "İran Sinemasının Yeni Adresi - İran Filmleri, İran Dizileri, İslami Filmler, Dini Filmler, Dini Sinema, İslami Diziler,...",
+        "description": "Ä°ran SinemasÄ±nÄ±n Yeni Adresi - Ä°ran Filmleri, Ä°ran Dizileri, Ä°slami Filmler, Dini Filmler, Dini Sinema, Ä°slami Diziler,...",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/YeniKaynak.cs3",
         "name": "YeniKaynak"
     },
@@ -2446,7 +2445,7 @@
         ],
         "version": 14,
         "internalName": "YerelDiziler",
-        "description": "Bu eklentide yerel dizileri güncel şekilde bulabilirsiniz",
+        "description": "Bu eklentide yerel dizileri gÃ¼ncel ÅŸekilde bulabilirsiniz",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/YerelDiziler.cs3",
         "name": "YerelDiziler"
     },
@@ -2465,7 +2464,7 @@
         ],
         "version": 1,
         "internalName": "YerelProgramlar",
-        "description": "Yerel programları güncel şekilde bulabilirsiniz",
+        "description": "Yerel programlarÄ± gÃ¼ncel ÅŸekilde bulabilirsiniz",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/YerelProgramlar.cs3",
         "name": "YerelProgramlar"
     },
@@ -2485,7 +2484,7 @@
         ],
         "version": 26,
         "internalName": "YesilCamTv",
-        "description": "Yeşilçam klasik Türk sineması filmleri ve arşiv",
+        "description": "YeÅŸilÃ§am klasik TÃ¼rk sinemasÄ± filmleri ve arÅŸiv",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/YesilCamTv.cs3",
         "name": "YesilCamTv"
     },
@@ -2505,7 +2504,7 @@
         ],
         "version": 6,
         "internalName": "YouTube",
-        "description": "YouTube, izlediğiniz videolarla önerilerini iyileştirir. İlginizi çekebilecek içeriklerle dolu bir akış oluşturmak için video izlemeye başlayın.",
+        "description": "YouTube, izlediÄŸiniz videolarla Ã¶nerilerini iyileÅŸtirir. Ä°lginizi Ã§ekebilecek iÃ§eriklerle dolu bir akÄ±ÅŸ oluÅŸturmak iÃ§in video izlemeye baÅŸlayÄ±n.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/YouTube.cs3",
         "name": "YouTube"
     },
@@ -2523,10 +2522,10 @@
             "Live"
         ],
         "version": 1,
-        "internalName": "YouTube Özel - Latte",
-        "description": "Youtube 7/24 içeriklerinden derlemeler içerir. Orijinal youtube ile oynatılarak kullanılmaktadır. Bu konuda @feroxx`un geliştirdiği youtube extractor için teşekkürler.",
+        "internalName": "YouTube Ã–zel - Latte",
+        "description": "Youtube 7/24 iÃ§eriklerinden derlemeler iÃ§erir. Orijinal youtube ile oynatÄ±larak kullanÄ±lmaktadÄ±r. Bu konuda @feroxx`un geliÅŸtirdiÄŸi youtube extractor iÃ§in teÅŸekkÃ¼rler.",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/YouTube_Ozel_-_Latte.cs3",
-        "name": "YouTube Özel - Latte"
+        "name": "YouTube Ã–zel - Latte"
     },
     {
         "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.yts-official.mx&size=128",
@@ -2545,8 +2544,9 @@
         ],
         "version": 42,
         "internalName": "YTS",
-        "description": "YTS Filmleri 4K Desteği Otomatik altyazı ve film açıklaması (Torrent)",
+        "description": "YTS Filmleri 4K DesteÄŸi Otomatik altyazÄ± ve film aÃ§Ä±klamasÄ± (Torrent)",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/YTS.cs3",
         "name": "YTS"
     }
 ]
+
