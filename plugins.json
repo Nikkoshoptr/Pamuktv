@@ -1074,24 +1074,26 @@
         "name": "GolgeTV"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=128",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.land&sz=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 48578,
+        "fileSize": 23873,
         "status": 1,
         "language": "tr",
         "authors": [
             "hexated",
-            "keyiflerolsun"
+            "keyiflerolsun",
+            "nikyokki"
         ],
         "tvTypes": [
             "Movie",
             "TvSeries"
         ],
-        "version": 60,        "internalName": "HDFilmCehennemi v60",        "fileSize": 23819,
-        "description": "TÃ¼rkiye'nin en hÄ±zlÄ± hd film izleme sitesi",
+        "version": 61,
+        "internalName": "HDFilmCehennemi",
+        "description": "Türkiye'nin en hızlı hd film izleme sitesi",
         "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HDFilmCehennemi.cs3",
-        "name": "HDFilmCehennemi"
+        "name": "HDFilmCehennemi v61"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi2.nl&sz=128",
