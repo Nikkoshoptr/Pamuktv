@@ -1,2563 +1,2557 @@
 [
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.4kfilmizlesene.org&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 11825,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 6,
-        "internalName": "4KFilmIzlesene",
-        "description": "En yeni ve sorunsuz âš¡  Full HD Film izle keyfi her yerde sizinle ! 4K ve 1080p online film izleme farkÄ±yla 4KFilmizlesene&amp;#039;nin TadÄ±nÄ± Ã‡Ä±kart.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/4KFilmIzlesene.cs3",
-        "name": "4KFilmIzlesene"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=anm.cx&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 24512,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun",
-            "inatchii",
-            "JustRelaxable"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 21,
-        "internalName": "AnimeciX",
-        "description": "AnimeciX, animeleri keÅŸfedebileceÄŸiniz ve animeler hakkÄ±nda her ÅŸeyi Ã¶ÄŸrenebileceÄŸiniz bir paylaÅŸÄ±m platformudur.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/AnimeciX.cs3",
-        "name": "AnimeciX"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=animeler.pw",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 127109,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "CloudStreamTR",
-            "kraptor"
-        ],
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie"
-        ],
-        "version": 16,
-        "internalName": "Animeler",
-        "description": "Animeler - TÃ¼rkÃ§e AltyazÄ±lÄ± ve DublajlÄ± Anime Ä°zleme Platformu",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Animeler.cs3",
-        "name": "Animeler"
-    },
-    {
-        "iconUrl": "https://play-lh.googleusercontent.com/BIE1R3FVOpIoCPxkx3Erfuw5sVc5wVIbeHAcRuTUGesuvc1S1Cr6KYumGVbn7xABuLc=w240-h480",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 35560,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "kraptor",
-            "ByAyzen"
-        ],
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie",
-            "OVA"
-        ],
-        "version": 4,
-        "internalName": "Animely",
-        "description": "Animely ile en sevdiÄŸiniz animeleri TÃ¼rkÃ§e altyazÄ±lÄ± olarak HD kalitede izleyin. GÃ¼ncel sezon animeleri, klasikler ve Ã§ok daha fazlasÄ±. Hemen Ã¼cretsiz hesap oluÅŸturun ve anime dÃ¼nyasÄ±na katÄ±lÄ±n. Binlerce bÃ¶lÃ¼m anime iÃ§eriÄŸiyle sizleri bekliyor!",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Animely.cs3",
-        "name": "Animely"
-    },
-    {
-        "iconUrl": "https://anizium.co/assets/images/logo.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 31769,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "kerimmkirac",
-            "ByAyzen"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime"
-        ],
-        "version": 25,
-        "internalName": "Anizium",
-        "description": "Anizium ile dÃ¼nyada ilk ve tek 4K TÃ¼rkÃ§e dublaj platformunda anime keyfini yaÅŸa. En yeni animeleri Ä°ngilizce altyazÄ± ve dublaj seÃ§enekleriyle 1080p ve 4K kalitesinde HD izle.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Anizium.cs3",
-        "name": "Anizium"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=anizm.net&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 21617,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "csprofesor"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
-        "version": 3,
-        "internalName": "Anizm",
-        "description": "",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Anizm.cs3",
-        "name": "Anizm"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=asyaanimeleri.top&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 13712,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "patr0n"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 1,
-        "internalName": "AsyaAnimeleri",
-        "description": "Asya Animeleri - Anime izle, Donghua izle, TÃ¼rkÃ§e AltyazÄ±lÄ± Anime izle.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/AsyaAnimeleri.cs3",
-        "name": "AsyaAnimeleri"
-    },
-    {
-        "iconUrl": "https://asyafanatiklerim.com/wp-content/uploads/2018/08/md_5aaeb1de75bea.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 14363,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "kraptor",
-            "kerimmkirac"
-        ],
-        "tvTypes": [
-            "AsianDrama"
-        ],
-        "version": 22,
-        "internalName": "AsyaFanatiklerim",
-        "description": "Asya Fanatikleri, asya dizilerini izleme imkanÄ± sunar. Kore dizileri izle, asyafanatikleri kore dizileri, tayvan dizileri izle, Ã§in dizileri izle, anime izle.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/AsyaFanatiklerim.cs3",
-        "name": "AsyaFanatiklerim"
-    },
-    {
-        "iconUrl": "https://asyafilmizlesene.org/wp-content/uploads/2022/09/rsm.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 12456,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "Makoto Tokioki"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "AsyaFilmIzlesene",
-        "description": "Hint, Kore Filmleri",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/AsyaFilmIzlesene.cs3",
-        "name": "AsyaFilmIzlesene"
-    },
-    {
-        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaminik.com/&size=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 13827,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "kraptor"
-        ],
-        "tvTypes": [
-            "AsianDrama"
-        ],
-        "version": 17,
-        "internalName": "AsyaMinik",
-        "description": "Asyaminik - En GÃ¼ncel Asya Dizileri Burada!",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/AsyaMinik.cs3",
-        "name": "AsyaMinik"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=asyawatch.com&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 30151,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 6,
-        "internalName": "AsyaWatch",
-        "description": "Asyawatch",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/AsyaWatch.cs3",
-        "name": "AsyaWatch"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 31167,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun",
-            "JustRelaxable"
-        ],
-        "tvTypes": [
-            "Documentary"
-        ],
-        "version": 17,
-        "internalName": "BelgeselX",
-        "description": "En yeni belgeseller, tÃ¼rkÃ§e altyazÄ±lÄ± yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/BelgeselX.cs3",
-        "name": "BelgeselX"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 18691,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "Adippe",
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 10,
-        "internalName": "CanliTV",
-        "description": "CanlÄ± TV",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/CanliTV.cs3",
-        "name": "CanliTV"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 36001,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Cartoon",
-            "Anime",
-            "Movie"
-        ],
-        "version": 16,
-        "internalName": "CizgiMax",
-        "description": "Ã‡izgiMax ile Ã‡izgi Film izlemek artÄ±k daha kolay, donmadan full hd ve reklamsÄ±z bir sitedir, iÃ§erisinde 700 den fazla Ã§izgi film olan, Bu site bu iÅŸi profesyonelce yapÄ±yor.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/CizgiMax.cs3",
-        "name": "CizgiMax"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cizgivedizi.com",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 12113,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "kraptor",
-            "ByAyzen"
-        ],
-        "tvTypes": [
-            "Cartoon"
-        ],
-        "version": 50,
-        "internalName": "CizgiVeDizi",
-        "description": "Ãœcretsiz bir ÅŸekilde Ã§izgi dizi, dizi, anime ve daha fazlasÄ±nÄ± eski-yeni demeden izleyebilirsiniz.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/CizgiVeDizi.cs3",
-        "name": "CizgiVeDizi"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/Emre-Kahveci/CloudStreamHub/main/assets/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 375578,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "CloudStreamTR",
-            "Emre-Kahveci"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime",
-            "AnimeMovie",
-            "Cartoon",
-            "Documentary"
-        ],
-        "version": 29,
-        "internalName": "CloudStreamHub",
-        "description": "CloudStreamHub Aggregator - TMDB KeÅŸif & CloudStream SaÄŸlayÄ±cÄ±larÄ±nÄ± BirleÅŸtiren Eklenti",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/CloudStreamHub.cs3",
-        "name": "CloudStreamHub"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.ddizi.im&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 20110,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 22,
-        "internalName": "DDizi",
-        "description": "DDizi.im iÃ§in Cloudstream eklentisi",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DDizi.cs3",
-        "name": "Ddizi"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.ddizi.im&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 23749,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "GitLatte",
-            "patr0nq"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 4,
-        "internalName": "DDizi - Latte",
-        "description": "Ddizi, dizi izle, dizi seyret, ddizi.im - GÃ¼ncel ve eski dizileri en iyi gÃ¶rÃ¼ntÃ¼ kalitesiyle bulabileceÄŸiniz dizi izleme sitesi.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DDizi_-_Latte.cs3",
-        "name": "DDizi - Latte"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=diziasia.com",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 16097,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "kerimmkirac"
-        ],
-        "tvTypes": [
-            "AsianDrama"
-        ],
-        "version": 20,
-        "internalName": "DiziAsia",
-        "description": "DiziAsia - Asya Dizileri Ä°zle",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziAsia.cs3",
-        "name": "DiziAsia"
-    },
-    {
-        "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.diziasya.com&size=32",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 27495,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "kerimmkirac"
-        ],
-        "tvTypes": [
-            "AsianDrama"
-        ],
-        "version": 27,
-        "internalName": "DiziAsya",
-        "description": "Asya'nÄ±n en iyi Ã‡in ve Kore dizilerini ve filmlerini keÅŸfedin! Romantizm, dram, aksiyon... Diziasya ile Asya kÃ¼ltÃ¼rÃ¼ne hemen adÄ±m atÄ±n!",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziAsya.cs3",
-        "name": "DiziAsya"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 21202,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 23,
-        "internalName": "DiziBox",
-        "description": "YabancÄ± Dizi izle, TÃ¼m yabancÄ± dizilerin yeni ve eski sezonlarÄ±nÄ± full hd izleyebileceÄŸiniz elit site.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziBox.cs3",
-        "name": "DiziBox"
-    },
-    {
-        "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizifilm.org/dizi/breaking-bad/sezon-1/bolum-2&size=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 70643,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "ByAyzen"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 22,
-        "internalName": "DiziFilmORG",
-        "description": "En yeni ve popÃ¼ler yerli yabancÄ± filmleri TÃ¼rkÃ§e dublaj ve altyazÄ±lÄ± seÃ§eneklerle Full HD kalitede, tek parÃ§a ve kesintisiz Dizifilm.orgâ€™da izle.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziFilmORG.cs3",
-        "name": "DiziFilmORG"
-    },
-    {
-        "iconUrl": "https://dizifun3.com/images/data/darklogo.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 24355,
-        "status": 0,
-        "language": "tr",
-        "authors": [
-            "GitLatte",
-            "patr0nq"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 5,
-        "internalName": "DiziFun - Latte",
-        "description": "Dizifun, yabancÄ± dizi - film, yerli dizi - film , tÃ¼rkÃ§e dublaj , tÃ¼rkÃ§e altyazÄ±lÄ± ve anime dizi - film izlemeniz iÃ§in sizinledir.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziFun_-_Latte.cs3",
-        "name": "DiziFun - Latte"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=dizigecesi.com",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 127387,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "CloudStreamTR",
-            "kraptor"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 15,
-        "internalName": "Dizigecesi",
-        "description": "Dizigecesi - YabancÄ± Dizi ve Film Ä°zle",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Dizigecesi.cs3",
-        "name": "Dizigecesi"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom1.co&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 18639,
-        "status": 0,
-        "language": "tr",
-        "authors": [
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 9,
-        "internalName": "DiziGom",
-        "description": "TÃ¼rkÃ§e altyazÄ±lÄ± yabancÄ± dizi izle, TÃ¼m yabancÄ±, kore, netflix dizilerin yeni ve eski sezonlarÄ±nÄ± orijinal dilinde dizigom1 alt yazÄ±lÄ± film izleyebilir, sadece tÃ¼rkÃ§e altyazÄ±lÄ± en iyi yabancÄ± diziler ve filmler hakkÄ±nda yorum yapabilirsiniz.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziGom.cs3",
-        "name": "DiziGom"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 23562,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "AsianDrama"
-        ],
-        "version": 41,
-        "internalName": "DiziKorea",
-        "description": "En GÃ¼ncel Kore Dizileri izleme Sitesi",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziKorea.cs3",
-        "name": "DiziKorea"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dizi18.life",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 72416,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "kerimmkirac",
-            "kraptor",
-            "ByAyzen"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 58,
-        "internalName": "DiziLife",
-        "description": "Dizilife yabancÄ± dizi ve film izlemek iÃ§in tasarlanmÄ±ÅŸ bir platformdur. TÃ¼m dÃ¼nyadan yerli/yabancÄ± bÃ¼tÃ¼n dizileri ve filmleri Ã¼cretsiz ve donmadan izleyebilirsiniz.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziLife.cs3",
-        "name": "DiziLife"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 36123,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 92,
-        "internalName": "Dizilla",
-        "description": "Dizilla tÃ¼m yabancÄ± dizileri Ã¼cretsiz olarak TÃ¼rkÃ§e Dublaj ve altyazÄ±lÄ± seÃ§enekleri ile 1080P kalite izleyebileceÄŸiniz yeni nesil yabancÄ± dizi izleme siteniz.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Dizilla.cs3",
-        "name": "Dizilla"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=dizimag.net&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 26515,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 17,
-        "internalName": "DiziMag",
-        "description": "En son Ã§Ä±kan yabancÄ± dizi ve filmleri DiziMag farkÄ±yla full hd 1080p kalitede izle. Dizimag GeniÅŸ ve gÃ¼ncel arÅŸiviyle dizi ve filmlerin tadÄ±nÄ± Ã§Ä±kartÄ±n.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziMag.cs3",
-        "name": "DiziMag"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 34840,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 63,
-        "internalName": "DiziMom",
-        "description": "Binlerce yerli yabancÄ± dizi arÅŸivi, tÃ¼m sezonlar, kesintisiz bÃ¶lÃ¼mler. Sadece dizi izle, Dizimom heryerde seninle!",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziMom.cs3",
-        "name": "DiziMom"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal1563.com&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 29472,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun",
-            "muratcesmecioglu"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 113,
-        "internalName": "DiziPal",
-        "description": "en yeni dizileri gÃ¼venli ve hÄ±zlÄ± ÅŸekilde sunar.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziPal.cs3",
-        "name": "DiziPal"
-    },
-    {
-        "iconUrl": "https://chessplyimages.cfd/uploads/site/favicon-32x32.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 27505,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun",
-            "muratcesmecioglu"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 102,
-        "internalName": "DiziPalOriginal",
-        "description": "en yeni dizileri gÃ¼venli ve hÄ±zlÄ± ÅŸekilde sunar.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziPalOriginal.cs3",
-        "name": "DiziPalOriginal"
-    },
-    {
-        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 45039,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "kraptor",
-            "kerimmkirac",
-            "ByAyzen"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 45,
-        "internalName": "DiziPalOrijinal",
-        "description": "DiziPal Orijinal.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziPalOrijinal.cs3",
-        "name": "DiziPalOrijinal"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=dizipod.com&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 23522,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "patr0n"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "DiziPod",
-        "description": "YabancÄ± dizi ve film izleme platformu. AltyazÄ±lÄ± yabancÄ± dizi ve film izle.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziPod.cs3",
-        "name": "DiziPod"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=diziroll.club&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 18548,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "bilhan50"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 1,
-        "internalName": "DiziRoll",
-        "description": "DiziRoll - yabanci dizileri turkce dublaj veya altyazili olarak 1080p HD izleyin.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziRoll.cs3",
-        "name": "DiziRoll"
-    },
-    {
-        "iconUrl": "https://i.imgur.com/zQYsL6Z.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 41036,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "kraptor",
-            "ByAyzen"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 74,
-        "internalName": "DiziYo",
-        "description": "Diziyo ile YabancÄ± Dizi, Film, Anime, Ã‡izgi-Film izle.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziYo.cs3",
-        "name": "DiziYo"
-    },
-    {
-        "iconUrl": "https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 15974,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 26,
-        "internalName": "DiziYou",
-        "description": "Diziyou en kaliteli TÃ¼rkÃ§e dublaj ve altyazÄ±lÄ± yabancÄ± dizi izleme sitesidir. GÃ¼ncel ve efsanevi dizileri 1080p Full HD kalitede izlemek iÃ§in hemen tÄ±kla!",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziYou.cs3",
-        "name": "DiziYou"
-    },
-    {
-        "iconUrl": "https://www.dmax.com.tr/favicon.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 13243,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 2,
-        "internalName": "DMax",
-        "description": "DMAX dizi ve programlarÄ±nÄ± takip etmek iÃ§in ziyaret edin. DMAX dizi ve programlarÄ±nÄ± tek parÃ§a ve hd kalitesiyle izleyin.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DMax.cs3",
-        "name": "DMax"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=dramadizilerim.com",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 127907,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "CloudStreamTR",
-            "kraptor"
-        ],
-        "tvTypes": [
-            "AsianDrama"
-        ],
-        "version": 15,
-        "internalName": "DramaDizilerim",
-        "description": "DramaDizilerim - Kore, Ã‡in ve Asya KÄ±sa/Uzun Dizileri TÃ¼rkÃ§e AltyazÄ±lÄ±",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DramaDizilerim.cs3",
-        "name": "DramaDizilerim"
-    },
-    {
-        "iconUrl": "https://filmbip.com/uploads/favicon/original/favicon.webp",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 14795,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 11,
-        "internalName": "FilmBip",
-        "description": "Binlerce yerli yabancÄ± dizi arÅŸivi, tÃ¼m sezonlar, kesintisiz bÃ¶lÃ¼mler. Filmbip heryerde seninle!",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FilmBip.cs3",
-        "name": "FilmBip"
-    },
-    {
-        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmekseni.net/&size=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 18912,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "kraptor",
-            "ByAyzen"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 50,
-        "internalName": "FilmEkseni",
-        "description": "Film Ekseni âš¡ Vizyonda ki, en gÃ¼ncel ve en yeni filmleri full hd kalitesinde tÃ¼rkÃ§e dublaj ve altyazÄ± seÃ§enekleriyle 1080p olarak izleyebileceÄŸiniz adresiniz.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FilmEkseni.cs3",
-        "name": "FilmEkseni"
-    },
-    {
-        "iconUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK_Pe3vpG-yUVt1NvckDpaD6COLDitImrBUnHfAVA4fawhijE",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 17226,
-        "status": 0,
-        "language": "tr",
-        "authors": [
-            "kraptor",
-            "ByAyzen"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 43,
-        "internalName": "FilmHane",
-        "description": "",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FilmHane.cs3",
-        "name": "FilmHane"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmizleilk.com&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 19950,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 5,
-        "internalName": "FilmIzleIlk",
-        "description": "Filmizleilk.com Yerli ve YabancÄ± en son Film ve Dizileri Full HD 1080p Bluray Tek Part Full izle",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FilmIzleIlk.cs3",
-        "name": "FilmIzleIlk"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=filmizlesene.plus&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 17217,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "FilmÄ°zlesene",
-        "description": "Filmizlesene ile hÄ±zlÄ± film izleme fÄ±rsatÄ±nÄ± yakala, en yeni ve iyi filmleri Full HD 1080p kalitesiyle online ve bedava izle",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FilmIzlesene.cs3",
-        "name": "FilmÄ°zlesene"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=filmkovasi.tv&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 18426,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "FilmKovasi",
-        "description": "Film Kovasi âš¡ ile en gÃ¼ncel ve sorunsuz Full HD Film izle keyfi her yerde seninle! 1080p online film izleme ayrÄ±calÄ±ÄŸÄ±yla Film KovasÄ±'nÄ±n TadÄ±nÄ± Ã‡Ä±karÄ±n.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FilmKovasi.cs3",
-        "name": "FilmKovasi"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 32902,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun",
-            "usdogu"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 59,
-        "internalName": "FilmMakinesi",
-        "description": "Film Makinesi, en yeni ve en gÃ¼ncel filmleri sitemizde full HD kalite farkÄ± ile izleyebilirsiniz. HD film izle denildiÄŸinde akla gelen en kaliteli film izleme sitesi.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FilmMakinesi.cs3",
-        "name": "FilmMakinesi"
-    },
-    {
-        "iconUrl": "https://filmmirasim.ktb.gov.tr/favicon-r.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 15162,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "byayzen"
-        ],
-        "tvTypes": [
-            "Documentary"
-        ],
-        "version": 5,
-        "internalName": "FilmmirasÄ±m",
-        "description": "KÃ¼ltÃ¼r ve Turizm BakanlÄ±ÄŸÄ±, kÃ¼ltÃ¼rel mirasÄ±mÄ±zÄ±n gÃ¶rsel belleÄŸini oluÅŸturan filmlerin muhafazasÄ± ve gelecek kuÅŸaklara aktarÄ±lmasÄ± amacÄ±yla Sinema Genel MÃ¼dÃ¼rlÃ¼ÄŸÃ¼ bÃ¼nyesinde oluÅŸturduÄŸu arÅŸivdeki filmleri dijital ortama aktarmakta ve restore etmektedir. ",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Filmmirasim.cs3",
-        "name": "FilmmirasÄ±m"
-    },
-    {
-        "iconUrl": "https://www.filmmodu.one/icon/favicon.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 16496,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 19,
-        "internalName": "FilmModu",
-        "description": "Film modun geldiyse yÃ¼ksek kalitede en yeni filmleri izle, 1080p izleyebileceÄŸiniz reklamsiz film sitesi.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FilmModu.cs3",
-        "name": "FilmModu"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilm.us&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 28171,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 36,
-        "internalName": "FullHDFilm",
-        "description": "Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Ã–zgÃ¼n film arÅŸivimizle en Ã¼stÃ¼n kaliteli film izle keyfini sunuyoruz.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FullHDFilm.cs3",
-        "name": "FullHDFilm"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilmizlede.net&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 15452,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 5,
-        "internalName": "FullHDFilmÄ°zlede",
-        "description": "En gÃ¼ncel ve popÃ¼ler filmleri Full HD kalitesinde, TÃ¼rkÃ§e altyazÄ±lÄ± veya TÃ¼rkÃ§e dublaj seÃ§enekleriyle izleyebileceÄŸiniz tek adres! Sinema tutkunlarÄ± iÃ§in en Ã¶zel film deneyimini yaÅŸamak iÃ§in fullhdfilmizlede.net",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FullHDFilmIzlede.cs3",
-        "name": "FullHDFilmÄ°zlede"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 40117,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 33,
-        "internalName": "FullHDFilmizlesene",
-        "description": "Sinema zevkini evinize kadar getirdik. TÃ¼rkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FullHDFilmizlesene.cs3",
-        "name": "FullHDFilmizlesene"
-    },
-    {
-        "iconUrl": "https://www.giniko.com/images/favicon.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 10986,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "kraptor"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 15,
-        "internalName": "GinikoCanli",
-        "description": "Vpn Gerekli! DÃ¼nyanÄ±n tÃ¼m Ã¼lkelerinden Ã¼cretsiz Ã§evrimiÃ§i TV.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/GinikoCanli.cs3",
-        "name": "GinikoCanli"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/gofilm.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 27666,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "GitLatte"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "GoFilmIzle - Latte",
-        "description": "GoFilmizle | Yerli ve YabancÄ± Full HD Film izleme Sitesi - Diziler Ã§alÄ±ÅŸmaz.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/GoFilmIzle_-_Latte.cs3",
-        "name": "GoFilmIzle - Latte"
-    },
-    {
-        "iconUrl": "https://www.apkdelisi.net/wp-content/uploads/2022/03/golge-tv-reklamsiz-mod-apk-canli-tv-apkdelisi-0.jpg",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 25071,
-        "status": 0,
-        "language": "tr",
-        "authors": [
-            "usdogu",
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 6,
-        "internalName": "GolgeTV",
-        "description": "GolgeTV cloudstream eklentisidir. SevdiÄŸiniz yayÄ±n platformlarÄ±nÄ± ve canlÄ± maÃ§larÄ± burada bulabilirsiniz.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/GolgeTV.cs3",
-        "name": "GolgeTV"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.land&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 23873,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "hexated",
-            "keyiflerolsun",
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 61,
-        "internalName": "HDFilmCehennemi",
-        "description": "Türkiye'nin en hızlı hd film izleme sitesi",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HDFilmCehennemi.cs3",
-        "name": "HDFilmCehennemi v61"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi2.nl&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 24654,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 7,
-        "internalName": "HDFilmCehennemi2",
-        "description": "Full hd film izleme keyfini hdfilmcehennemi2 ile yaÅŸayÄ±n. TÃ¼rkiyenin en gÃ¼ncel yÃ¼ksek hd kalitede film izleme sitesi.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HDFilmCehennemi2.cs3",
-        "name": "HDFilmCehennemi2"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmdelisi.com&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 64395,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "patr0n"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 1,
-        "internalName": "HDFilmDelisi",
-        "description": "HD Film Delisi - TÃ¼rkÃ§e Filmler",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HDFilmDelisi.cs3",
-        "name": "HDFilmDelisi"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.to&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 28290,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 7,
-        "internalName": "HDFilmIzle",
-        "description": "HDFilmizle ile Full HD izle, 1080p kalitede Yerli ve YabancÄ± filmlerle TÃ¼rkÃ§e dublaj veya AltyazÄ± olarak kesintisiz film izlemenin tadÄ±nÄ± Ã§Ä±karÄ±n.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HDFilmIzle.cs3",
-        "name": "HDFilmIzle"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmsitesi.net&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 20512,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 18,
-        "internalName": "HDFilmSitesi",
-        "description": "Film izle, Hdfilmsitesi ile Online 1080p ve 4K kalite Full HD Filmlere TÃ¼rkÃ§e Dublaj ve AltyazÄ±lÄ± olarak ReklamsÄ±z Kesintisiz HD Film izle.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HDFilmSitesi.cs3",
-        "name": "HDFilmSitesi"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hintfilmizle.com&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 21885,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "liberta09"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 2,
-        "internalName": "HintFilmIzle",
-        "description": "HintFilmÄ°zle.com iÃ§in Hint film ve dizi eklentisi",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HintFilmIzle.cs3",
-        "name": "HintFilmIzle"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://animecix.tv&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 233353,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "hrtestingx"
-        ],
-        "tvTypes": [
-            "Anime",
-            "Others"
-        ],
-        "version": 1,
-        "internalName": "HRAnime",
-        "description": "HR Anime - Toplu TÃ¼rkÃ§e Anime KaynaklarÄ±",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HRAnime.cs3",
-        "name": "HRAnime"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://webdramaturkey2.com&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 208557,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "hrtestingx"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Movie",
-            "Anime",
-            "Others"
-        ],
-        "version": 4,
-        "internalName": "HRAsianDrama",
-        "description": "HR AsianDrama - Toplu Kaynak",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HRAsianDrama.cs3",
-        "name": "HRAsianDrama"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/icons/kids.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 135899,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "hrtestingx"
-        ],
-        "tvTypes": [
-            "Cartoon",
-            "Others"
-        ],
-        "version": 1,
-        "internalName": "HRKids",
-        "description": "HR Kids - Toplu Ã‡izgi Film, Animasyon & Ã‡ocuk Ä°Ã§erikleri",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HRKids.cs3",
-        "name": "HRKids"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/icons/live.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 39969,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "hrtestingx"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 1,
-        "internalName": "HRLive",
-        "description": "HR Live - Toplu CanlÄ± TV",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HRLive.cs3",
-        "name": "HRLive"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/icons/hrseries.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 464083,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "hrtestingx"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 2,
-        "internalName": "HRSeries",
-        "description": "HR Series - Toplu Dizi KaynaklarÄ±",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HRSeries.cs3",
-        "name": "HRSeries"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dramadizilerim.com&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 112415,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "hrtestingx"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Movie",
-            "Anime",
-            "Others"
-        ],
-        "version": 5,
-        "internalName": "HRShortDrama",
-        "description": "HR ShortDrama - Toplu KÄ±sa Dizi & Drama KaynaklarÄ±",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HRShortDrama.cs3",
-        "name": "HRShortDrama"
-    },
-    {
-        "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 36900,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "JustRelaxable",
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Live"
-        ],
-        "version": 30,
-        "internalName": "InatBox",
-        "description": "Ä°natBox cloudstream eklentisidir. SevdiÄŸiniz yayÄ±n platformlarÄ±nÄ± ve canlÄ± maÃ§larÄ± burada bulabilirsiniz.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/InatBox.cs3",
-        "name": "InatBox"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 18683,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "patr0n"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 3,
-        "internalName": "iptvSevenler",
-        "description": "iptvSevenler",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/iptvSevenler.cs3",
-        "name": "iptvSevenler"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=720pizle.ai&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 15086,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 6,
-        "internalName": "IzleAI",
-        "description": "1080P yabancÄ± film izle, TÃ¼rkÃ§e dublaj ve TÃ¼rkÃ§e altyazÄ±lÄ± film seÃ§enekleri ile TÃ¼rkiye'nin en geniÅŸ film arÅŸivi 720pizle Full hd film izle.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/IzleAI.cs3",
-        "name": "IzleAI"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 18698,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 47,
-        "internalName": "JetFilmizle",
-        "description": "Binlerce Film Ä°zleme SeÃ§eneÄŸiyle En Ä°yi Film Ä°zleme Sitesi",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/JetFilmizle.cs3",
-        "name": "JetFilmizle"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/kick.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 26613,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "GitLatte",
-            "patr0nq"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "KICK TÃ¼rkiye - Latte",
-        "description": "Kick'teki TÃ¼rkÃ§e canlÄ± yayÄ±nlar ve popÃ¼ler yayÄ±ncÄ±larÄ± canlÄ± izleyin. ArayÄ±n, bulun  ve izlemeye devam edin.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/KICK_Turkiye_-_Latte.cs3",
-        "name": "KICK TÃ¼rkiye - Latte"
-    },
-    {
-        "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kick.com&size=48",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 30373,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "ByAyzen",
-            "kraptor"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 17,
-        "internalName": "KickTR",
-        "description": "Kick, canlÄ± yayÄ±n yapÄ±lan bir platformdur. Daha gevÅŸek kurallarÄ± ve yayÄ±ncÄ±lara daha fazla kazanÃ§ saÄŸlamasÄ±yla bilinir. Platform, yayÄ±ncÄ±lardan sadece %5 kesinti yapar ve bu oran diÄŸer yayÄ±n platformlarÄ±na gÃ¶re en dÃ¼ÅŸÃ¼k kesintilerden biridir.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/KickTR.cs3",
-        "name": "KickTR"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=koreanturk.com&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 12215,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "AsianDrama"
-        ],
-        "version": 7,
-        "internalName": "KoreanTurk",
-        "description": "GÃ¼ney Kore sevdalÄ±larÄ±nÄ±n vazgeÃ§emediÄŸi ve TÃ¼rkiye'nin en Ã§ok ziyaret edilen GÃ¼ney Kore PortalÄ±; KoreantÃ¼rk'e hoÅŸgeldiniz!",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/KoreanTurk.cs3",
-        "name": "KoreanTurk"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 425762,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "kraptor",
-            "Phisher98",
-            "ByAyzen",
-            "Megix"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime",
-            "Cartoon",
-            "AsianDrama",
-            "AnimeMovie"
-        ],
-        "version": 86,
-        "internalName": "KraptorPlus",
-        "description": "Bir Ã§ok sitenin birleÅŸtiÄŸi toplama eklenti.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/KraptorPlus.cs3",
-        "name": "KraptorPlus"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 27243,
-        "status": 0,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 16,
-        "internalName": "KultFilmler",
-        "description": "KÃ¼lt Filmler Ã¶zenle en iyi filmleri derler ve iyi bir altyazÄ±lÄ± film izleme deneyimi sunmayÄ± amaÃ§lar",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/KultFilmler.cs3",
-        "name": "KultFilmler"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/mirrorverseicon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 119508,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "kraptor",
-            "NivinCNC",
-            "ByAyzen"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 38,
-        "internalName": "MirrorVerse",
-        "description": "Netflix, Disney+ ve Primevideo eklentileri tek bir eklentide kendisi bir eklenti degildir bu 3 eklentiyi kurar, tÃ¼m eklentilerde altyazÄ± netflixde dublaj desteÄŸi var.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/MirrorVerse.cs3",
-        "name": "MirrorVerse"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzikkanallari.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 23377,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "GitLatte",
-            "patr0nq"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 3,
-        "internalName": "MÃ¼zik TV ve Radyo - Latte",
-        "description": "MÃ¼zik KanallarÄ±na Ã¶zel canlÄ± tv eklentisidir.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Muzik_TV_ve_Radyo_-_Latte.cs3",
-        "name": "MÃ¼zik TV ve Radyo - Latte"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 19932,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun",
-            "GitLatte",
-            "patr0nq",
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 3,
-        "internalName": "myway TV - Latte",
-        "description": "Sinetech.tr Forum myway canlÄ± tv listesi",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/myway_TV_-_Latte.cs3",
-        "name": "myway TV - Latte"
-    },
-    {
-        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.onepacetr.net/&size=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 25092,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "kraptor"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 13,
-        "internalName": "OnePaceTr",
-        "description": "One Pace tÃ¼rkÃ§e altyazÄ±lÄ± izleme platformu.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/OnePaceTr.cs3",
-        "name": "OnePaceTr"
-    },
-    {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openani.me/&size=24",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 67615,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "kraptor",
-            "ByAyzen"
-        ],
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie"
-        ],
-        "version": 28,
-        "internalName": "OpenAnime",
-        "description": "Anime izleme deneyiminizi zenginleÅŸtiren, hÄ±zlÄ± ve etkileyici Ã¶zelliklerle donatÄ±lmÄ±ÅŸ, ÅŸÄ±k bir tasarÄ±ma sahip anime platformu. Anime izleme deneyiminiz, kolaylaÅŸtÄ±rÄ±ldÄ±.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/OpenAnime.cs3",
-        "name": "OpenAnime"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powerdizi.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 34237,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "GitLatte",
-            "patr0nq",
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 6,
-        "internalName": "powerboard Dizi - Latte",
-        "description": "powerboard`un yabancÄ± dizi arÅŸivi",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/powerboard_Dizi_-_Latte.cs3",
-        "name": "powerboard Dizi - Latte"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powersinema.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 38795,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "GitLatte",
-            "patr0nq",
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 5,
-        "internalName": "powerboard Sinema - Latte",
-        "description": "powerboard`un sinema arÅŸivi",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/powerboard_Sinema_-_Latte.cs3",
-        "name": "powerboard Sinema - Latte"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 18697,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "patr0n"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 3,
-        "internalName": "powerDizi",
-        "description": "powerDizi",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/powerDizi.cs3",
-        "name": "powerDizi"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 18690,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "patr0n"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "powerSinema",
-        "description": "powerSinema",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/powerSinema.cs3",
-        "name": "powerSinema"
-    },
-    {
-        "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 40221,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun",
-            "yusiqo",
-            "inatchii",
-            "JustRelaxable",
-            "patr0n"
-        ],
-        "tvTypes": [
-            "Movie",
-            "Live",
-            "TvSeries"
-        ],
-        "version": 113,
-        "internalName": "RecTV",
-        "description": "RecTv APK, TÃ¼rkiye'deki en popÃ¼ler Ã‡evrimiÃ§i Medya AkÄ±ÅŸ platformlarÄ±ndan biridir. Filmlerin, CanlÄ± SporlarÄ±n, Web Dizilerinin ve Ã§ok daha fazlasÄ±nÄ±n keyfini Ã¼cretsiz Ã§Ä±karÄ±n.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/RecTV.cs3",
-        "name": "RecTV"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=roketdizi.co&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 37404,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 15,
-        "internalName": "RoketDizi",
-        "description": "TÃ¼rkiye'nin en tatlÄ±ÅŸ yabancÄ± dizi izleme sitesi. TÃ¼rkÃ§e dublaj, altyazÄ±lÄ±, eski ve yeni yabancÄ± dizilerin yanÄ± sÄ±ra kore (asya) dizileri izleyebilirsiniz.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/RoketDizi.cs3",
-        "name": "RoketDizi"
-    },
-    {
-        "iconUrl": "https://seicode.net/favicon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 20383,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "kraptor",
-            "ByAyzen",
-            "kerimmkirac"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 25,
-        "internalName": "SeiCode",
-        "description": "Seicode ile en yeni animeler keÅŸfedin!",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/SeiCode.cs3",
-        "name": "SeiCode"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.com&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 30130,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 6,
-        "internalName": "SelcukFlix",
-        "description": "Selcukflix'te her tÃ¼rden en yeni ve en popÃ¼ler dizi ve filmleri izlemenin keyfini Ã§Ä±karÄ±n. Aksiyondan romantiÄŸe, bilim kurgudan dramaya, geniÅŸ kÃ¼tÃ¼phanemizde herkes iÃ§in bir ÅŸey var.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/SelcukFlix.cs3",
-        "name": "SelcukFlix"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.uk&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 25096,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 32,
-        "internalName": "SetFilmIzle",
-        "description": "Setfilmizle sitemizde, donma yaÅŸamadan TÃ¼rkÃ§e dublaj ve altyazÄ±lÄ± filmleri ile dizileri muhteÅŸem 1080p full HD kalitesinde izleyebilirsiniz.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/SetFilmIzle.cs3",
-        "name": "SetFilmIzle"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi6.com&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 22620,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun",
-            "JustRelaxable",
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 9,
-        "internalName": "SezonlukDizi",
-        "description": "GÃ¼ncel ve eski dizileri en iyi gÃ¶rÃ¼ntÃ¼ kalitesiyle bulabileceÄŸiniz yabancÄ± dizi izleme siteniz.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/SezonlukDizi.cs3",
-        "name": "SezonlukDizi"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.one&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 20018,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "bilhan50"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "SezonlukFilm",
-        "description": "SezonlukFilm - en yeni filmleri full HD, turkce dublaj veya altyazili 4K kalitesinde izleyin.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/SezonlukFilm.cs3",
-        "name": "SezonlukFilm"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 16715,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 25,
-        "internalName": "SinemaCX",
-        "description": "GÃ¼ncel ve en iyi yabancÄ± filmleri yÃ¼ksek gÃ¶rÃ¼ntÃ¼ kalitesinde, TÃ¼rkÃ§e dublaj ve altyazÄ± seÃ§enekleriyle filmleri full izleyin.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/SinemaCX.cs3",
-        "name": "SinemaCX"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.sinewix.com/&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 28626,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime"
-        ],
-        "version": 3,
-        "internalName": "SineWix",
-        "description": "SineWix | Film - Dizi - Anime Ä°zleme UygulamasÄ±",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/SineWix.cs3",
-        "name": "SineWix"
-    },
-    {
-        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://sinezy.fit&size=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 14152,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "kraptor"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 40,
-        "internalName": "Sinezy",
-        "description": "Yerli ve yabancÄ± film izle! TÃ¼rkÃ§e Dublaj ve Alt YazÄ±lÄ± SeÃ§enekleriyle full hd film izlemek iÃ§in En Ã§ok tercih edilen adres!",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Sinezy.cs3",
-        "name": "Sinezy"
-    },
-    {
-        "iconUrl": "https://www.turksatkablo.com.tr/images/icerik/ssportplus.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 24425,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "Makoto Tokioki"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 8,
-        "internalName": "SSportPlus",
-        "description": "SSport+ canlÄ± yayÄ±nlarÄ± ve arÅŸiv iÃ§erikleri",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/SSportPlus.cs3",
-        "name": "SSportPlus"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.biz&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 19771,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun",
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 24,
-        "internalName": "SuperFilmGeldi",
-        "description": "Hd film izliyerek arkadaÅŸlarÄ±nÄ±zla ve sevdiklerinizle iyi bir vakit geÃ§irmek istiyorsanÄ±z aÃ§Ä±n bir film eÄŸlenmeye bakÄ±n. Bilim kurgu filmleri, aÅŸk drama vahÅŸet aÅŸk romantik sÄ±radÄ±ÅŸÄ± korku filmlerini izle.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/SuperFilmGeldi.cs3",
-        "name": "SuperFilmGeldi"
-    },
-    {
-        "iconUrl": "https://seeklogo.com/images/T/tabii-logo-60B8BC0D5D-seeklogo.com.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 41767,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "Makoto Tokioki"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 9,
-        "internalName": "Tabii",
-        "description": "Tabii iÃ§eriklerine bu eklenti sayesinde eriÅŸebilirsiniz",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Tabii.cs3",
-        "name": "Tabii"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tafdi.info&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 11901,
-        "status": 0,
-        "language": "tr",
-        "authors": [
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "Tafdi",
-        "description": "TÃ¼rkÃ§e altyazÄ±lÄ± film izle, full hd olarak film izlemenin keyfini Ã§Ä±karÄ±n. TÃ¼rkiyenin en bÃ¼yÃ¼k film izleme platformu tafdi kalitesiyle sizlerle.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Tafdi.cs3",
-        "name": "Tafdi"
-    },
-    {
-        "iconUrl": "https://www.tlctv.com.tr/favicon.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 13259,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 1,
-        "internalName": "TLC",
-        "description": "TLC TV dizi ve programlarÄ±nÄ± takip etmek iÃ§in ziyaret edin. TLC TV dizi ve programlarÄ±nÄ± tek parÃ§a ve hd kalitesiyle izleyin.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TLC.cs3",
-        "name": "TLC"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 13170,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 19,
-        "internalName": "TLCtr",
-        "description": "TLC tr",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TLCtr.cs3",
-        "name": "TLCtr"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=upload.wikimedia.org&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 19290,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "Makoto Tokioki"
-        ],
-        "tvTypes": [
-            "Movie",
-            "Torrent"
-        ],
-        "version": 2,
-        "internalName": "TorrentFilm",
-        "description": "TÃ¼rkÃ§e altyazÄ±lÄ± torrentleri buradan 4K kalitesinde izleyebilirsiniz.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TorrentFilm.cs3",
-        "name": "TorrentFilm"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tranimaci.com&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 16863,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun",
-            "patr0n"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 19,
-        "internalName": "TRanimaci",
-        "description": "TRanimeci - TÃ¼rkiye'nin Online Anime izleme sitesi.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TRanimaci.cs3",
-        "name": "TRanimaci"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.co&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 15594,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 65,
-        "internalName": "TRasyalog",
-        "description": "TRasyalog izleme sitesi.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TRasyalog.cs3",
-        "name": "TRasyalog"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.co&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 16212,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 14,
-        "internalName": "TurkAnime",
-        "description": "TÃ¼rk Anime TV - TÃ¼rkiye'nin Online Anime izleme sitesi.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TurkAnime.cs3",
-        "name": "TurkAnime"
-    },
-    {
-        "iconUrl": "https://i.imgur.com/Cff8v6J.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 165395,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "ByAyzen"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 33,
-        "internalName": "Turkdizileri",
-        "description": "TRT1, Showtv, Kanal D ve daha fazla site tek bir eklentide birleÅŸiyor.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Turkdizileri.cs3",
-        "name": "Turkdizileri"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 475398,
-        "status": 0,
-        "language": "tr",
-        "authors": [
-            "hrtestingx",
-            "kraptor",
-            "keyiflerolsun",
-            "byayzen",
-            "kerimmkirac",
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime",
-            "Live"
-        ],
-        "version": 10,
-        "internalName": "TurkishMix",
-        "description": "Tek arama sonucu; Bir iÃ§eriÄŸe girince tÃ¼m kaynaklardan linkleri toplar. Film, Dizi, Anime, CanlÄ± TV.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TurkishMix.cs3",
-        "name": "TurkishMix"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 505390,
-        "status": 0,
-        "language": "tr",
-        "authors": [
-            "kraptor",
-            "keyiflerolsun",
-            "byayzen",
-            "kerimmkirac",
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime",
-            "Live"
-        ],
-        "version": 85,
-        "internalName": "TurkishW",
-        "description": "Tek arama sonucu (TurkishW); bir iÃ§eriÄŸe girince tÃ¼m kaynaklardan linkleri toplar. Film, Dizi, Anime + CanlÄ± TV.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TurkishW.cs3",
-        "name": "TurkishW"
-    },
-    {
-        "iconUrl": "",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 7954,
-        "status": 1,
-        "language": "tr",
-        "authors": [],
-        "tvTypes": [],
-        "version": 2,
-        "internalName": "TurkMegaSaglayici",
-        "description": "Bu eklenti, uygulama her aÃ§Ä±ldÄ±ÄŸÄ±nda tÃ¼m depolarÄ± ekler. EÄŸer tÃ¼m depolarÄ± eklemek istemiyorsanÄ±z, tek bir Ã§alÄ±ÅŸtÄ±rmadan sonra eklentiyi kaldÄ±rÄ±n. Depo listesi otomatik olarak yenilenmez.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TurkMegaSaglayici.cs3",
-        "name": "TurkMegaSaglayici"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 18030,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "Adippe",
-            "keyiflerolsun",
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 6,
-        "internalName": "TurkSCanliTV",
-        "description": "TurkS CanlÄ± TV",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TurkSCanliTV.cs3",
-        "name": "TurkSCanliTV"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/bahcesitv.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 20365,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "GitLatte",
-            "patr0nq",
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 3,
-        "internalName": "Tv BahÃ§esi - Latte",
-        "description": "TvGarden televizyon listesi. @keyiflerolsun CanlÄ± TV eklentisinden yararlanÄ±lmÄ±ÅŸtÄ±r.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Tv_Bahcesi_-_Latte.cs3",
-        "name": "Tv BahÃ§esi - Latte"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tvdiziler.cc&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 26861,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 4,
-        "internalName": "TvDiziler",
-        "description": "Ãœcretsiz yerli dizi izleme sitesi en popÃ¼ler dizileri tek parÃ§a hd kalitesiyle ve reklamsÄ±z bedava olarak buradan tv dizileri izleyin.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TvDiziler.cs3",
-        "name": "TvDiziler"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=ugurfilm7.com&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 20875,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 13,
-        "internalName": "UgurFilm",
-        "description": "YabancÄ± film izle, TÃ¼rkÃ§e dublaj ve TÃ¼rkÃ§e altyazÄ±lÄ± film seÃ§enekleriyle 720p ve 1080p HD kalitesinde film izle - UÄŸur Film full hd film izle.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/UgurFilm.cs3",
-        "name": "UgurFilm"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 18697,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "patr0n"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 2,
-        "internalName": "vavooSpor",
-        "description": "vavooSpor",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/vavooSpor.cs3",
-        "name": "vavooSpor"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=webdramaturkey2.com",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 128271,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "CloudStreamTR",
-            "kraptor"
-        ],
-        "tvTypes": [
-            "AsianDrama"
-        ],
-        "version": 15,
-        "internalName": "WebDramaTurkey",
-        "description": "WebDramaTurkey - Asya Dizileri ve Web Drama ArÅŸivi TÃ¼rkÃ§e AltyazÄ±lÄ±",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/WebDramaTurkey.cs3",
-        "name": "WebDramaTurkey"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=webdramaturkey.org&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 32680,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "GitLatte",
-            "patr0nq"
-        ],
-        "tvTypes": [
-            "Movie",
-            "Podcast",
-            "AsianDrama",
-            "Anime"
-        ],
-        "version": 3,
-        "internalName": "WebDramaTurkey - Latte",
-        "description": "Kore, Ã‡in ve Japon yapÄ±mÄ± filmleri Web Drama Turkey Ã¼zerinden TÃ¼rkÃ§e altyazÄ±lÄ± olarak izleyebilirsiniz. Kore filmi izle, Ã‡in filmi izle, Asya filmleri izle.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/WebDramaTurkey_-_Latte.cs3",
-        "name": "WebDramaTurkey - Latte"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://webdramaturkey2.com&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 47944,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "patr0n"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Movie",
-            "Anime",
-            "Others"
-        ],
-        "version": 1,
-        "internalName": "WebdramaTurkey2",
-        "description": "WebdramaTurkey2 Ä°Ã§erikleri",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/WebdramaTurkey2.cs3",
-        "name": "WebdramaTurkey2"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 30581,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun",
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 59,
-        "internalName": "WebteIzle",
-        "description": "Her tÃ¼rlÃ¼ filmi ister dublaj ister altyazÄ±lÄ±, en kaliteli bir ÅŸekilde izleyebileceÄŸiniz arÅŸivi en geniÅŸ gerÃ§ek film izleme siteniz.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/WebteIzle.cs3",
-        "name": "WebteIzle"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=wfilmizle.my&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 15649,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 7,
-        "internalName": "WFilmÄ°zle",
-        "description": "Aile Filmleri izle, Yerli ve yabancÄ± en yeni Aile filmlerini Full HD 1080p gÃ¶rÃ¼ntÃ¼ kalitesiyle TÃ¼rkÃ§e Dublaj ve TÃ¼rkÃ§e AltyazÄ± seÃ§enekleriyle izleyin.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/WFilmIzle.cs3",
-        "name": "WFilmÄ°zle"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=xprime.tv&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 28280,
-        "status": 0,
-        "language": "tr",
-        "authors": [
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 6,
-        "internalName": "XPrime",
-        "description": "XPrime.Tv",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/XPrime.cs3",
-        "name": "XPrime"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.tv&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 43072,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 8,
-        "internalName": "YabanciDizi",
-        "description": "Son Ã§Ä±kan yabancÄ± dizi ve filmleri yabancidizi' de izle. En yeni yabancÄ± film ve diziler, tÃ¼rkÃ§e altyazÄ±lÄ± yada dublaj olarak 1080p kalitesinde hd izle.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/YabanciDizi.cs3",
-        "name": "YabanciDizi"
-    },
-    {
-        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.yenikaynak.com/&size=16",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 21423,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "kraptor",
-            "ByAyzen"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 11,
-        "internalName": "YeniKaynak",
-        "description": "Ä°ran SinemasÄ±nÄ±n Yeni Adresi - Ä°ran Filmleri, Ä°ran Dizileri, Ä°slami Filmler, Dini Filmler, Dini Sinema, Ä°slami Diziler,...",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/YeniKaynak.cs3",
-        "name": "YeniKaynak"
-    },
-    {
-        "iconUrl": "https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 78243,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "Makoto Tokioki"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 14,
-        "internalName": "YerelDiziler",
-        "description": "Bu eklentide yerel dizileri gÃ¼ncel ÅŸekilde bulabilirsiniz",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/YerelDiziler.cs3",
-        "name": "YerelDiziler"
-    },
-    {
-        "iconUrl": "https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 77654,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "Makoto Tokioki"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 1,
-        "internalName": "YerelProgramlar",
-        "description": "Yerel programlarÄ± gÃ¼ncel ÅŸekilde bulabilirsiniz",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/YerelProgramlar.cs3",
-        "name": "YerelProgramlar"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=yesilcamtv.com.tr",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 128429,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "CloudStreamTR",
-            "kraptor"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 26,
-        "internalName": "YesilCamTv",
-        "description": "YeÅŸilÃ§am klasik TÃ¼rk sinemasÄ± filmleri ve arÅŸiv",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/YesilCamTv.cs3",
-        "name": "YesilCamTv"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 14115,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "Cloudburst",
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Others"
-        ],
-        "version": 6,
-        "internalName": "YouTube",
-        "description": "YouTube, izlediÄŸiniz videolarla Ã¶nerilerini iyileÅŸtirir. Ä°lginizi Ã§ekebilecek iÃ§eriklerle dolu bir akÄ±ÅŸ oluÅŸturmak iÃ§in video izlemeye baÅŸlayÄ±n.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/YouTube.cs3",
-        "name": "YouTube"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/Latte%20Tube/latte-tube.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 13644,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "GitLatte"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 1,
-        "internalName": "YouTube Ã–zel - Latte",
-        "description": "Youtube 7/24 iÃ§eriklerinden derlemeler iÃ§erir. Orijinal youtube ile oynatÄ±larak kullanÄ±lmaktadÄ±r. Bu konuda @feroxx`un geliÅŸtirdiÄŸi youtube extractor iÃ§in teÅŸekkÃ¼rler.",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/YouTube_Ozel_-_Latte.cs3",
-        "name": "YouTube Ã–zel - Latte"
-    },
-    {
-        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.yts-official.mx&size=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Nikkoshoptr/Pamuktv",
-        "fileSize": 15868,
-        "status": 0,
-        "language": "tr",
-        "authors": [
-            "kraptor",
-            "Phisher98",
-            "ByAyzen"
-        ],
-        "tvTypes": [
-            "Torrent"
-        ],
-        "version": 42,
-        "internalName": "YTS",
-        "description": "YTS Filmleri 4K DesteÄŸi Otomatik altyazÄ± ve film aÃ§Ä±klamasÄ± (Torrent)",
-        "url": "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/YTS.cs3",
-        "name": "YTS"
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=www.4kfilmizlesene.org\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  11825,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  6,
+        "internalName":  "4KFilmIzlesene",
+        "description":  "En yeni ve sorunsuz âš¡  Full HD Film izle keyfi her yerde sizinle ! 4K ve 1080p online film izleme farkÄ±yla 4KFilmizlesene\u0026amp;#039;nin TadÄ±nÄ± Ã‡Ä±kart.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/4KFilmIzlesene.cs3",
+        "name":  "4KFilmIzlesene"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=anm.cx\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  24512,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun",
+                        "inatchii",
+                        "JustRelaxable"
+                    ],
+        "tvTypes":  [
+                        "Anime"
+                    ],
+        "version":  21,
+        "internalName":  "AnimeciX",
+        "description":  "AnimeciX, animeleri keÅŸfedebileceÄŸiniz ve animeler hakkÄ±nda her ÅŸeyi Ã¶ÄŸrenebileceÄŸiniz bir paylaÅŸÄ±m platformudur.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/AnimeciX.cs3",
+        "name":  "AnimeciX"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?sz=128\u0026domain=animeler.pw",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  127109,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "CloudStreamTR",
+                        "kraptor"
+                    ],
+        "tvTypes":  [
+                        "Anime",
+                        "AnimeMovie"
+                    ],
+        "version":  16,
+        "internalName":  "Animeler",
+        "description":  "Animeler - TÃ¼rkÃ§e AltyazÄ±lÄ± ve DublajlÄ± Anime Ä°zleme Platformu",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Animeler.cs3",
+        "name":  "Animeler"
+    },
+    {
+        "iconUrl":  "https://play-lh.googleusercontent.com/BIE1R3FVOpIoCPxkx3Erfuw5sVc5wVIbeHAcRuTUGesuvc1S1Cr6KYumGVbn7xABuLc=w240-h480",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  35560,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "kraptor",
+                        "ByAyzen"
+                    ],
+        "tvTypes":  [
+                        "Anime",
+                        "AnimeMovie",
+                        "OVA"
+                    ],
+        "version":  4,
+        "internalName":  "Animely",
+        "description":  "Animely ile en sevdiÄŸiniz animeleri TÃ¼rkÃ§e altyazÄ±lÄ± olarak HD kalitede izleyin. GÃ¼ncel sezon animeleri, klasikler ve Ã§ok daha fazlasÄ±. Hemen Ã¼cretsiz hesap oluÅŸturun ve anime dÃ¼nyasÄ±na katÄ±lÄ±n. Binlerce bÃ¶lÃ¼m anime iÃ§eriÄŸiyle sizleri bekliyor!",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Animely.cs3",
+        "name":  "Animely"
+    },
+    {
+        "iconUrl":  "https://anizium.co/assets/images/logo.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  31769,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "kerimmkirac",
+                        "ByAyzen"
+                    ],
+        "tvTypes":  [
+                        "AnimeMovie",
+                        "Anime"
+                    ],
+        "version":  25,
+        "internalName":  "Anizium",
+        "description":  "Anizium ile dÃ¼nyada ilk ve tek 4K TÃ¼rkÃ§e dublaj platformunda anime keyfini yaÅŸa. En yeni animeleri Ä°ngilizce altyazÄ± ve dublaj seÃ§enekleriyle 1080p ve 4K kalitesinde HD izle.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Anizium.cs3",
+        "name":  "Anizium"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=anizm.net\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  21617,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "csprofesor"
+                    ],
+        "tvTypes":  [
+                        "AnimeMovie",
+                        "Anime",
+                        "OVA"
+                    ],
+        "version":  3,
+        "internalName":  "Anizm",
+        "description":  "",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Anizm.cs3",
+        "name":  "Anizm"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=asyaanimeleri.top\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  13712,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "patr0n"
+                    ],
+        "tvTypes":  [
+                        "Anime"
+                    ],
+        "version":  1,
+        "internalName":  "AsyaAnimeleri",
+        "description":  "Asya Animeleri - Anime izle, Donghua izle, TÃ¼rkÃ§e AltyazÄ±lÄ± Anime izle.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/AsyaAnimeleri.cs3",
+        "name":  "AsyaAnimeleri"
+    },
+    {
+        "iconUrl":  "https://asyafanatiklerim.com/wp-content/uploads/2018/08/md_5aaeb1de75bea.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  14363,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "kraptor",
+                        "kerimmkirac"
+                    ],
+        "tvTypes":  [
+                        "AsianDrama"
+                    ],
+        "version":  22,
+        "internalName":  "AsyaFanatiklerim",
+        "description":  "Asya Fanatikleri, asya dizilerini izleme imkanÄ± sunar. Kore dizileri izle, asyafanatikleri kore dizileri, tayvan dizileri izle, Ã§in dizileri izle, anime izle.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/AsyaFanatiklerim.cs3",
+        "name":  "AsyaFanatiklerim"
+    },
+    {
+        "iconUrl":  "https://asyafilmizlesene.org/wp-content/uploads/2022/09/rsm.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  12456,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "Makoto Tokioki"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  2,
+        "internalName":  "AsyaFilmIzlesene",
+        "description":  "Hint, Kore Filmleri",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/AsyaFilmIzlesene.cs3",
+        "name":  "AsyaFilmIzlesene"
+    },
+    {
+        "iconUrl":  "https://t0.gstatic.com/faviconV2?client=SOCIAL\u0026type=FAVICON\u0026fallback_opts=TYPE,SIZE,URL\u0026url=https://asyaminik.com/\u0026size=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  13827,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "kraptor"
+                    ],
+        "tvTypes":  [
+                        "AsianDrama"
+                    ],
+        "version":  17,
+        "internalName":  "AsyaMinik",
+        "description":  "Asyaminik - En GÃ¼ncel Asya Dizileri Burada!",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/AsyaMinik.cs3",
+        "name":  "AsyaMinik"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=asyawatch.com\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  30151,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries"
+                    ],
+        "version":  6,
+        "internalName":  "AsyaWatch",
+        "description":  "Asyawatch",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/AsyaWatch.cs3",
+        "name":  "AsyaWatch"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=belgeselx.com\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  31167,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun",
+                        "JustRelaxable"
+                    ],
+        "tvTypes":  [
+                        "Documentary"
+                    ],
+        "version":  17,
+        "internalName":  "BelgeselX",
+        "description":  "En yeni belgeseller, tÃ¼rkÃ§e altyazÄ±lÄ± yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/BelgeselX.cs3",
+        "name":  "BelgeselX"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=tr.canlitv.team\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  18691,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "Adippe",
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "Live"
+                    ],
+        "version":  10,
+        "internalName":  "CanliTV",
+        "description":  "CanlÄ± TV",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/CanliTV.cs3",
+        "name":  "CanliTV"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=cizgimax.online\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  36001,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "Cartoon",
+                        "Anime",
+                        "Movie"
+                    ],
+        "version":  16,
+        "internalName":  "CizgiMax",
+        "description":  "Ã‡izgiMax ile Ã‡izgi Film izlemek artÄ±k daha kolay, donmadan full hd ve reklamsÄ±z bir sitedir, iÃ§erisinde 700 den fazla Ã§izgi film olan, Bu site bu iÅŸi profesyonelce yapÄ±yor.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/CizgiMax.cs3",
+        "name":  "CizgiMax"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?sz=64\u0026domain=cizgivedizi.com",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  12113,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "kraptor",
+                        "ByAyzen"
+                    ],
+        "tvTypes":  [
+                        "Cartoon"
+                    ],
+        "version":  50,
+        "internalName":  "CizgiVeDizi",
+        "description":  "Ãœcretsiz bir ÅŸekilde Ã§izgi dizi, dizi, anime ve daha fazlasÄ±nÄ± eski-yeni demeden izleyebilirsiniz.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/CizgiVeDizi.cs3",
+        "name":  "CizgiVeDizi"
+    },
+    {
+        "iconUrl":  "https://raw.githubusercontent.com/Emre-Kahveci/CloudStreamHub/main/assets/icon.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  375578,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "CloudStreamTR",
+                        "Emre-Kahveci"
+                    ],
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries",
+                        "Anime",
+                        "AnimeMovie",
+                        "Cartoon",
+                        "Documentary"
+                    ],
+        "version":  29,
+        "internalName":  "CloudStreamHub",
+        "description":  "CloudStreamHub Aggregator - TMDB KeÅŸif \u0026 CloudStream SaÄŸlayÄ±cÄ±larÄ±nÄ± BirleÅŸtiren Eklenti",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/CloudStreamHub.cs3",
+        "name":  "CloudStreamHub"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=www.ddizi.im\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  20110,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "TvSeries"
+                    ],
+        "version":  22,
+        "internalName":  "DDizi",
+        "description":  "DDizi.im iÃ§in Cloudstream eklentisi",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DDizi.cs3",
+        "name":  "Ddizi"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=www.ddizi.im\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  23749,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "GitLatte",
+                        "patr0nq"
+                    ],
+        "tvTypes":  [
+                        "TvSeries"
+                    ],
+        "version":  4,
+        "internalName":  "DDizi - Latte",
+        "description":  "Ddizi, dizi izle, dizi seyret, ddizi.im - GÃ¼ncel ve eski dizileri en iyi gÃ¶rÃ¼ntÃ¼ kalitesiyle bulabileceÄŸiniz dizi izleme sitesi.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DDizi_-_Latte.cs3",
+        "name":  "DDizi - Latte"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?sz=64\u0026domain=diziasia.com",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  16097,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "kerimmkirac"
+                    ],
+        "tvTypes":  [
+                        "AsianDrama"
+                    ],
+        "version":  20,
+        "internalName":  "DiziAsia",
+        "description":  "DiziAsia - Asya Dizileri Ä°zle",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziAsia.cs3",
+        "name":  "DiziAsia"
+    },
+    {
+        "iconUrl":  "https://t1.gstatic.com/faviconV2?client=SOCIAL\u0026type=FAVICON\u0026fallback_opts=TYPE,SIZE,URL\u0026url=https://www.diziasya.com\u0026size=32",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  27495,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "kerimmkirac"
+                    ],
+        "tvTypes":  [
+                        "AsianDrama"
+                    ],
+        "version":  27,
+        "internalName":  "DiziAsya",
+        "description":  "Asya\u0027nÄ±n en iyi Ã‡in ve Kore dizilerini ve filmlerini keÅŸfedin! Romantizm, dram, aksiyon... Diziasya ile Asya kÃ¼ltÃ¼rÃ¼ne hemen adÄ±m atÄ±n!",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziAsya.cs3",
+        "name":  "DiziAsya"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=www.dizibox.live\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  21202,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "TvSeries"
+                    ],
+        "version":  23,
+        "internalName":  "DiziBox",
+        "description":  "YabancÄ± Dizi izle, TÃ¼m yabancÄ± dizilerin yeni ve eski sezonlarÄ±nÄ± full hd izleyebileceÄŸiniz elit site.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziBox.cs3",
+        "name":  "DiziBox"
+    },
+    {
+        "iconUrl":  "https://t1.gstatic.com/faviconV2?client=SOCIAL\u0026type=FAVICON\u0026fallback_opts=TYPE,SIZE,URL\u0026url=https://dizifilm.org/dizi/breaking-bad/sezon-1/bolum-2\u0026size=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  70643,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "ByAyzen"
+                    ],
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries"
+                    ],
+        "version":  22,
+        "internalName":  "DiziFilmORG",
+        "description":  "En yeni ve popÃ¼ler yerli yabancÄ± filmleri TÃ¼rkÃ§e dublaj ve altyazÄ±lÄ± seÃ§eneklerle Full HD kalitede, tek parÃ§a ve kesintisiz Dizifilm.orgâ€™da izle.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziFilmORG.cs3",
+        "name":  "DiziFilmORG"
+    },
+    {
+        "iconUrl":  "https://dizifun3.com/images/data/darklogo.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  24355,
+        "status":  0,
+        "language":  "tr",
+        "authors":  [
+                        "GitLatte",
+                        "patr0nq"
+                    ],
+        "tvTypes":  [
+                        "TvSeries",
+                        "Movie"
+                    ],
+        "version":  5,
+        "internalName":  "DiziFun - Latte",
+        "description":  "Dizifun, yabancÄ± dizi - film, yerli dizi - film , tÃ¼rkÃ§e dublaj , tÃ¼rkÃ§e altyazÄ±lÄ± ve anime dizi - film izlemeniz iÃ§in sizinledir.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziFun_-_Latte.cs3",
+        "name":  "DiziFun - Latte"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?sz=128\u0026domain=dizigecesi.com",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  127387,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "CloudStreamTR",
+                        "kraptor"
+                    ],
+        "tvTypes":  [
+                        "TvSeries",
+                        "Movie"
+                    ],
+        "version":  15,
+        "internalName":  "Dizigecesi",
+        "description":  "Dizigecesi - YabancÄ± Dizi ve Film Ä°zle",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Dizigecesi.cs3",
+        "name":  "Dizigecesi"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=dizigom1.co\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  18639,
+        "status":  0,
+        "language":  "tr",
+        "authors":  [
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  9,
+        "internalName":  "DiziGom",
+        "description":  "TÃ¼rkÃ§e altyazÄ±lÄ± yabancÄ± dizi izle, TÃ¼m yabancÄ±, kore, netflix dizilerin yeni ve eski sezonlarÄ±nÄ± orijinal dilinde dizigom1 alt yazÄ±lÄ± film izleyebilir, sadece tÃ¼rkÃ§e altyazÄ±lÄ± en iyi yabancÄ± diziler ve filmler hakkÄ±nda yorum yapabilirsiniz.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziGom.cs3",
+        "name":  "DiziGom"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=https://dizikorea.vip\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  23562,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "AsianDrama"
+                    ],
+        "version":  41,
+        "internalName":  "DiziKorea",
+        "description":  "En GÃ¼ncel Kore Dizileri izleme Sitesi",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziKorea.cs3",
+        "name":  "DiziKorea"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?sz=64\u0026domain=dizi18.life",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  72416,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "kerimmkirac",
+                        "kraptor",
+                        "ByAyzen"
+                    ],
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries"
+                    ],
+        "version":  58,
+        "internalName":  "DiziLife",
+        "description":  "Dizilife yabancÄ± dizi ve film izlemek iÃ§in tasarlanmÄ±ÅŸ bir platformdur. TÃ¼m dÃ¼nyadan yerli/yabancÄ± bÃ¼tÃ¼n dizileri ve filmleri Ã¼cretsiz ve donmadan izleyebilirsiniz.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziLife.cs3",
+        "name":  "DiziLife"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=dizilla.club\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  36123,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "TvSeries"
+                    ],
+        "version":  92,
+        "internalName":  "Dizilla",
+        "description":  "Dizilla tÃ¼m yabancÄ± dizileri Ã¼cretsiz olarak TÃ¼rkÃ§e Dublaj ve altyazÄ±lÄ± seÃ§enekleri ile 1080P kalite izleyebileceÄŸiniz yeni nesil yabancÄ± dizi izleme siteniz.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Dizilla.cs3",
+        "name":  "Dizilla"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=dizimag.net\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  26515,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "TvSeries"
+                    ],
+        "version":  17,
+        "internalName":  "DiziMag",
+        "description":  "En son Ã§Ä±kan yabancÄ± dizi ve filmleri DiziMag farkÄ±yla full hd 1080p kalitede izle. Dizimag GeniÅŸ ve gÃ¼ncel arÅŸiviyle dizi ve filmlerin tadÄ±nÄ± Ã§Ä±kartÄ±n.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziMag.cs3",
+        "name":  "DiziMag"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=www.dizimom.plus\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  34840,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "TvSeries"
+                    ],
+        "version":  63,
+        "internalName":  "DiziMom",
+        "description":  "Binlerce yerli yabancÄ± dizi arÅŸivi, tÃ¼m sezonlar, kesintisiz bÃ¶lÃ¼mler. Sadece dizi izle, Dizimom heryerde seninle!",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziMom.cs3",
+        "name":  "DiziMom"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=dizipal1563.com\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  29472,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun",
+                        "muratcesmecioglu"
+                    ],
+        "tvTypes":  [
+                        "TvSeries",
+                        "Movie"
+                    ],
+        "version":  113,
+        "internalName":  "DiziPal",
+        "description":  "en yeni dizileri gÃ¼venli ve hÄ±zlÄ± ÅŸekilde sunar.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziPal.cs3",
+        "name":  "DiziPal"
+    },
+    {
+        "iconUrl":  "https://chessplyimages.cfd/uploads/site/favicon-32x32.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  27505,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun",
+                        "muratcesmecioglu"
+                    ],
+        "tvTypes":  [
+                        "TvSeries",
+                        "Movie"
+                    ],
+        "version":  102,
+        "internalName":  "DiziPalOriginal",
+        "description":  "en yeni dizileri gÃ¼venli ve hÄ±zlÄ± ÅŸekilde sunar.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziPalOriginal.cs3",
+        "name":  "DiziPalOriginal"
+    },
+    {
+        "iconUrl":  "https://t3.gstatic.com/faviconV2?client=SOCIAL\u0026type=FAVICON\u0026fallback_opts=TYPE,SIZE,URL\u0026url=https://dizipal932.com\u0026size=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  45039,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "kraptor",
+                        "kerimmkirac",
+                        "ByAyzen"
+                    ],
+        "tvTypes":  [
+                        "TvSeries"
+                    ],
+        "version":  45,
+        "internalName":  "DiziPalOrijinal",
+        "description":  "DiziPal Orijinal.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziPalOrijinal.cs3",
+        "name":  "DiziPalOrijinal"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=dizipod.com\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  23522,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "patr0n"
+                    ],
+        "tvTypes":  [
+                        "TvSeries",
+                        "Movie"
+                    ],
+        "version":  3,
+        "internalName":  "DiziPod",
+        "description":  "YabancÄ± dizi ve film izleme platformu. AltyazÄ±lÄ± yabancÄ± dizi ve film izle.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziPod.cs3",
+        "name":  "DiziPod"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=diziroll.club\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  18548,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "bilhan50"
+                    ],
+        "tvTypes":  [
+                        "TvSeries"
+                    ],
+        "version":  1,
+        "internalName":  "DiziRoll",
+        "description":  "DiziRoll - yabanci dizileri turkce dublaj veya altyazili olarak 1080p HD izleyin.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziRoll.cs3",
+        "name":  "DiziRoll"
+    },
+    {
+        "iconUrl":  "https://i.imgur.com/zQYsL6Z.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  41036,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "kraptor",
+                        "ByAyzen"
+                    ],
+        "tvTypes":  [
+                        "TvSeries"
+                    ],
+        "version":  74,
+        "internalName":  "DiziYo",
+        "description":  "Diziyo ile YabancÄ± Dizi, Film, Anime, Ã‡izgi-Film izle.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziYo.cs3",
+        "name":  "DiziYo"
+    },
+    {
+        "iconUrl":  "https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  15974,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "TvSeries"
+                    ],
+        "version":  26,
+        "internalName":  "DiziYou",
+        "description":  "Diziyou en kaliteli TÃ¼rkÃ§e dublaj ve altyazÄ±lÄ± yabancÄ± dizi izleme sitesidir. GÃ¼ncel ve efsanevi dizileri 1080p Full HD kalitede izlemek iÃ§in hemen tÄ±kla!",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DiziYou.cs3",
+        "name":  "DiziYou"
+    },
+    {
+        "iconUrl":  "https://www.dmax.com.tr/favicon.ico",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  13243,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "TvSeries"
+                    ],
+        "version":  2,
+        "internalName":  "DMax",
+        "description":  "DMAX dizi ve programlarÄ±nÄ± takip etmek iÃ§in ziyaret edin. DMAX dizi ve programlarÄ±nÄ± tek parÃ§a ve hd kalitesiyle izleyin.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DMax.cs3",
+        "name":  "DMax"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?sz=128\u0026domain=dramadizilerim.com",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  127907,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "CloudStreamTR",
+                        "kraptor"
+                    ],
+        "tvTypes":  [
+                        "AsianDrama"
+                    ],
+        "version":  15,
+        "internalName":  "DramaDizilerim",
+        "description":  "DramaDizilerim - Kore, Ã‡in ve Asya KÄ±sa/Uzun Dizileri TÃ¼rkÃ§e AltyazÄ±lÄ±",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/DramaDizilerim.cs3",
+        "name":  "DramaDizilerim"
+    },
+    {
+        "iconUrl":  "https://filmbip.com/uploads/favicon/original/favicon.webp",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  14795,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  11,
+        "internalName":  "FilmBip",
+        "description":  "Binlerce yerli yabancÄ± dizi arÅŸivi, tÃ¼m sezonlar, kesintisiz bÃ¶lÃ¼mler. Filmbip heryerde seninle!",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FilmBip.cs3",
+        "name":  "FilmBip"
+    },
+    {
+        "iconUrl":  "https://t3.gstatic.com/faviconV2?client=SOCIAL\u0026type=FAVICON\u0026fallback_opts=TYPE,SIZE,URL\u0026url=https://filmekseni.net/\u0026size=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  18912,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "kraptor",
+                        "ByAyzen"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  50,
+        "internalName":  "FilmEkseni",
+        "description":  "Film Ekseni âš¡ Vizyonda ki, en gÃ¼ncel ve en yeni filmleri full hd kalitesinde tÃ¼rkÃ§e dublaj ve altyazÄ± seÃ§enekleriyle 1080p olarak izleyebileceÄŸiniz adresiniz.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FilmEkseni.cs3",
+        "name":  "FilmEkseni"
+    },
+    {
+        "iconUrl":  "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK_Pe3vpG-yUVt1NvckDpaD6COLDitImrBUnHfAVA4fawhijE",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  17226,
+        "status":  0,
+        "language":  "tr",
+        "authors":  [
+                        "kraptor",
+                        "ByAyzen"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  43,
+        "internalName":  "FilmHane",
+        "description":  "",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FilmHane.cs3",
+        "name":  "FilmHane"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=www.filmizleilk.com\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  19950,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries"
+                    ],
+        "version":  5,
+        "internalName":  "FilmIzleIlk",
+        "description":  "Filmizleilk.com Yerli ve YabancÄ± en son Film ve Dizileri Full HD 1080p Bluray Tek Part Full izle",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FilmIzleIlk.cs3",
+        "name":  "FilmIzleIlk"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=filmizlesene.plus\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  17217,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  3,
+        "internalName":  "FilmÄ°zlesene",
+        "description":  "Filmizlesene ile hÄ±zlÄ± film izleme fÄ±rsatÄ±nÄ± yakala, en yeni ve iyi filmleri Full HD 1080p kalitesiyle online ve bedava izle",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FilmIzlesene.cs3",
+        "name":  "FilmÄ°zlesene"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=filmkovasi.tv\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  18426,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  3,
+        "internalName":  "FilmKovasi",
+        "description":  "Film Kovasi âš¡ ile en gÃ¼ncel ve sorunsuz Full HD Film izle keyfi her yerde seninle! 1080p online film izleme ayrÄ±calÄ±ÄŸÄ±yla Film KovasÄ±\u0027nÄ±n TadÄ±nÄ± Ã‡Ä±karÄ±n.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FilmKovasi.cs3",
+        "name":  "FilmKovasi"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=filmmakinesi.film\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  32902,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun",
+                        "usdogu"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  59,
+        "internalName":  "FilmMakinesi",
+        "description":  "Film Makinesi, en yeni ve en gÃ¼ncel filmleri sitemizde full HD kalite farkÄ± ile izleyebilirsiniz. HD film izle denildiÄŸinde akla gelen en kaliteli film izleme sitesi.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FilmMakinesi.cs3",
+        "name":  "FilmMakinesi"
+    },
+    {
+        "iconUrl":  "https://filmmirasim.ktb.gov.tr/favicon-r.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  15162,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "byayzen"
+                    ],
+        "tvTypes":  [
+                        "Documentary"
+                    ],
+        "version":  5,
+        "internalName":  "FilmmirasÄ±m",
+        "description":  "KÃ¼ltÃ¼r ve Turizm BakanlÄ±ÄŸÄ±, kÃ¼ltÃ¼rel mirasÄ±mÄ±zÄ±n gÃ¶rsel belleÄŸini oluÅŸturan filmlerin muhafazasÄ± ve gelecek kuÅŸaklara aktarÄ±lmasÄ± amacÄ±yla Sinema Genel MÃ¼dÃ¼rlÃ¼ÄŸÃ¼ bÃ¼nyesinde oluÅŸturduÄŸu arÅŸivdeki filmleri dijital ortama aktarmakta ve restore etmektedir. ",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Filmmirasim.cs3",
+        "name":  "FilmmirasÄ±m"
+    },
+    {
+        "iconUrl":  "https://www.filmmodu.one/icon/favicon.ico",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  16496,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  19,
+        "internalName":  "FilmModu",
+        "description":  "Film modun geldiyse yÃ¼ksek kalitede en yeni filmleri izle, 1080p izleyebileceÄŸiniz reklamsiz film sitesi.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FilmModu.cs3",
+        "name":  "FilmModu"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=hdfilm.us\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  28171,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries"
+                    ],
+        "version":  36,
+        "internalName":  "FullHDFilm",
+        "description":  "Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Ã–zgÃ¼n film arÅŸivimizle en Ã¼stÃ¼n kaliteli film izle keyfini sunuyoruz.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FullHDFilm.cs3",
+        "name":  "FullHDFilm"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=fullhdfilmizlede.net\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  15452,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  5,
+        "internalName":  "FullHDFilmÄ°zlede",
+        "description":  "En gÃ¼ncel ve popÃ¼ler filmleri Full HD kalitesinde, TÃ¼rkÃ§e altyazÄ±lÄ± veya TÃ¼rkÃ§e dublaj seÃ§enekleriyle izleyebileceÄŸiniz tek adres! Sinema tutkunlarÄ± iÃ§in en Ã¶zel film deneyimini yaÅŸamak iÃ§in fullhdfilmizlede.net",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FullHDFilmIzlede.cs3",
+        "name":  "FullHDFilmÄ°zlede"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  40117,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  33,
+        "internalName":  "FullHDFilmizlesene",
+        "description":  "Sinema zevkini evinize kadar getirdik. TÃ¼rkiye\u0027nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/FullHDFilmizlesene.cs3",
+        "name":  "FullHDFilmizlesene"
+    },
+    {
+        "iconUrl":  "https://www.giniko.com/images/favicon.ico",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  10986,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "kraptor"
+                    ],
+        "tvTypes":  [
+                        "Live"
+                    ],
+        "version":  15,
+        "internalName":  "GinikoCanli",
+        "description":  "Vpn Gerekli! DÃ¼nyanÄ±n tÃ¼m Ã¼lkelerinden Ã¼cretsiz Ã§evrimiÃ§i TV.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/GinikoCanli.cs3",
+        "name":  "GinikoCanli"
+    },
+    {
+        "iconUrl":  "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/gofilm.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  27666,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "GitLatte"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  3,
+        "internalName":  "GoFilmIzle - Latte",
+        "description":  "GoFilmizle | Yerli ve YabancÄ± Full HD Film izleme Sitesi - Diziler Ã§alÄ±ÅŸmaz.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/GoFilmIzle_-_Latte.cs3",
+        "name":  "GoFilmIzle - Latte"
+    },
+    {
+        "iconUrl":  "https://www.apkdelisi.net/wp-content/uploads/2022/03/golge-tv-reklamsiz-mod-apk-canli-tv-apkdelisi-0.jpg",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  25071,
+        "status":  0,
+        "language":  "tr",
+        "authors":  [
+                        "usdogu",
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "Live"
+                    ],
+        "version":  6,
+        "internalName":  "GolgeTV",
+        "description":  "GolgeTV cloudstream eklentisidir. SevdiÄŸiniz yayÄ±n platformlarÄ±nÄ± ve canlÄ± maÃ§larÄ± burada bulabilirsiniz.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/GolgeTV.cs3",
+        "name":  "GolgeTV"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi.nl\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  19713,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "hexated",
+                        "keyiflerolsun",
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries"
+                    ],
+        "version":  62,
+        "internalName":  "HDFilmCehennemi",
+        "description":  "Türkiye\u0027nin en hızlı hd film izleme sitesi",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HDFilmCehennemi.cs3",
+        "name":  "HDFilmCehennemi v62"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi2.biz\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  28883,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  8,
+        "internalName":  "HDFilmCehennemi2",
+        "description":  "Full hd film izleme keyfini hdfilmcehennemi2 ile yaÅŸayÄ±n. TÃ¼rkiyenin en gÃ¼ncel yÃ¼ksek hd kalitede film izleme sitesi.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HDFilmCehennemi2.cs3",
+        "name":  "HDFilmCehennemi2"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=hdfilmdelisi.com\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  64395,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "patr0n"
+                    ],
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries"
+                    ],
+        "version":  1,
+        "internalName":  "HDFilmDelisi",
+        "description":  "HD Film Delisi - TÃ¼rkÃ§e Filmler",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HDFilmDelisi.cs3",
+        "name":  "HDFilmDelisi"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=hdfilmizle.to\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  28290,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries"
+                    ],
+        "version":  7,
+        "internalName":  "HDFilmIzle",
+        "description":  "HDFilmizle ile Full HD izle, 1080p kalitede Yerli ve YabancÄ± filmlerle TÃ¼rkÃ§e dublaj veya AltyazÄ± olarak kesintisiz film izlemenin tadÄ±nÄ± Ã§Ä±karÄ±n.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HDFilmIzle.cs3",
+        "name":  "HDFilmIzle"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=hdfilmsitesi.net\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  20512,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  18,
+        "internalName":  "HDFilmSitesi",
+        "description":  "Film izle, Hdfilmsitesi ile Online 1080p ve 4K kalite Full HD Filmlere TÃ¼rkÃ§e Dublaj ve AltyazÄ±lÄ± olarak ReklamsÄ±z Kesintisiz HD Film izle.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HDFilmSitesi.cs3",
+        "name":  "HDFilmSitesi"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=hintfilmizle.com\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  21885,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "liberta09"
+                    ],
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries"
+                    ],
+        "version":  2,
+        "internalName":  "HintFilmIzle",
+        "description":  "HintFilmÄ°zle.com iÃ§in Hint film ve dizi eklentisi",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HintFilmIzle.cs3",
+        "name":  "HintFilmIzle"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=https://animecix.tv\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  233353,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "hrtestingx"
+                    ],
+        "tvTypes":  [
+                        "Anime",
+                        "Others"
+                    ],
+        "version":  1,
+        "internalName":  "HRAnime",
+        "description":  "HR Anime - Toplu TÃ¼rkÃ§e Anime KaynaklarÄ±",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HRAnime.cs3",
+        "name":  "HRAnime"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=https://webdramaturkey2.com\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  208557,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "hrtestingx"
+                    ],
+        "tvTypes":  [
+                        "AsianDrama",
+                        "Movie",
+                        "Anime",
+                        "Others"
+                    ],
+        "version":  4,
+        "internalName":  "HRAsianDrama",
+        "description":  "HR AsianDrama - Toplu Kaynak",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HRAsianDrama.cs3",
+        "name":  "HRAsianDrama"
+    },
+    {
+        "iconUrl":  "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/icons/kids.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  135899,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "hrtestingx"
+                    ],
+        "tvTypes":  [
+                        "Cartoon",
+                        "Others"
+                    ],
+        "version":  1,
+        "internalName":  "HRKids",
+        "description":  "HR Kids - Toplu Ã‡izgi Film, Animasyon \u0026 Ã‡ocuk Ä°Ã§erikleri",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HRKids.cs3",
+        "name":  "HRKids"
+    },
+    {
+        "iconUrl":  "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/icons/live.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  39969,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "hrtestingx"
+                    ],
+        "tvTypes":  [
+                        "Live"
+                    ],
+        "version":  1,
+        "internalName":  "HRLive",
+        "description":  "HR Live - Toplu CanlÄ± TV",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HRLive.cs3",
+        "name":  "HRLive"
+    },
+    {
+        "iconUrl":  "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/icons/hrseries.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  464083,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "hrtestingx"
+                    ],
+        "tvTypes":  [
+                        "TvSeries"
+                    ],
+        "version":  2,
+        "internalName":  "HRSeries",
+        "description":  "HR Series - Toplu Dizi KaynaklarÄ±",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HRSeries.cs3",
+        "name":  "HRSeries"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=https://dramadizilerim.com\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  112415,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "hrtestingx"
+                    ],
+        "tvTypes":  [
+                        "AsianDrama",
+                        "Movie",
+                        "Anime",
+                        "Others"
+                    ],
+        "version":  5,
+        "internalName":  "HRShortDrama",
+        "description":  "HR ShortDrama - Toplu KÄ±sa Dizi \u0026 Drama KaynaklarÄ±",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/HRShortDrama.cs3",
+        "name":  "HRShortDrama"
+    },
+    {
+        "iconUrl":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  36900,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "JustRelaxable",
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries",
+                        "Live"
+                    ],
+        "version":  30,
+        "internalName":  "InatBox",
+        "description":  "Ä°natBox cloudstream eklentisidir. SevdiÄŸiniz yayÄ±n platformlarÄ±nÄ± ve canlÄ± maÃ§larÄ± burada bulabilirsiniz.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/InatBox.cs3",
+        "name":  "InatBox"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=tr.canlitv.team\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  18683,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "patr0n"
+                    ],
+        "tvTypes":  [
+                        "Live"
+                    ],
+        "version":  3,
+        "internalName":  "iptvSevenler",
+        "description":  "iptvSevenler",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/iptvSevenler.cs3",
+        "name":  "iptvSevenler"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=720pizle.ai\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  15086,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  6,
+        "internalName":  "IzleAI",
+        "description":  "1080P yabancÄ± film izle, TÃ¼rkÃ§e dublaj ve TÃ¼rkÃ§e altyazÄ±lÄ± film seÃ§enekleri ile TÃ¼rkiye\u0027nin en geniÅŸ film arÅŸivi 720pizle Full hd film izle.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/IzleAI.cs3",
+        "name":  "IzleAI"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  18698,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  47,
+        "internalName":  "JetFilmizle",
+        "description":  "Binlerce Film Ä°zleme SeÃ§eneÄŸiyle En Ä°yi Film Ä°zleme Sitesi",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/JetFilmizle.cs3",
+        "name":  "JetFilmizle"
+    },
+    {
+        "iconUrl":  "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/kick.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  26613,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "GitLatte",
+                        "patr0nq"
+                    ],
+        "tvTypes":  [
+                        "TvSeries",
+                        "Movie"
+                    ],
+        "version":  3,
+        "internalName":  "KICK TÃ¼rkiye - Latte",
+        "description":  "Kick\u0027teki TÃ¼rkÃ§e canlÄ± yayÄ±nlar ve popÃ¼ler yayÄ±ncÄ±larÄ± canlÄ± izleyin. ArayÄ±n, bulun  ve izlemeye devam edin.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/KICK_Turkiye_-_Latte.cs3",
+        "name":  "KICK TÃ¼rkiye - Latte"
+    },
+    {
+        "iconUrl":  "https://t1.gstatic.com/faviconV2?client=SOCIAL\u0026type=FAVICON\u0026fallback_opts=TYPE,SIZE,URL\u0026url=http://kick.com\u0026size=48",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  30373,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "ByAyzen",
+                        "kraptor"
+                    ],
+        "tvTypes":  [
+                        "Live"
+                    ],
+        "version":  17,
+        "internalName":  "KickTR",
+        "description":  "Kick, canlÄ± yayÄ±n yapÄ±lan bir platformdur. Daha gevÅŸek kurallarÄ± ve yayÄ±ncÄ±lara daha fazla kazanÃ§ saÄŸlamasÄ±yla bilinir. Platform, yayÄ±ncÄ±lardan sadece %5 kesinti yapar ve bu oran diÄŸer yayÄ±n platformlarÄ±na gÃ¶re en dÃ¼ÅŸÃ¼k kesintilerden biridir.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/KickTR.cs3",
+        "name":  "KickTR"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=koreanturk.com\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  12215,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "AsianDrama"
+                    ],
+        "version":  7,
+        "internalName":  "KoreanTurk",
+        "description":  "GÃ¼ney Kore sevdalÄ±larÄ±nÄ±n vazgeÃ§emediÄŸi ve TÃ¼rkiye\u0027nin en Ã§ok ziyaret edilen GÃ¼ney Kore PortalÄ±; KoreantÃ¼rk\u0027e hoÅŸgeldiniz!",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/KoreanTurk.cs3",
+        "name":  "KoreanTurk"
+    },
+    {
+        "iconUrl":  "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  425762,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "kraptor",
+                        "Phisher98",
+                        "ByAyzen",
+                        "Megix"
+                    ],
+        "tvTypes":  [
+                        "TvSeries",
+                        "Movie",
+                        "Anime",
+                        "Cartoon",
+                        "AsianDrama",
+                        "AnimeMovie"
+                    ],
+        "version":  86,
+        "internalName":  "KraptorPlus",
+        "description":  "Bir Ã§ok sitenin birleÅŸtiÄŸi toplama eklenti.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/KraptorPlus.cs3",
+        "name":  "KraptorPlus"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=kultfilmler.net\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  27243,
+        "status":  0,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries"
+                    ],
+        "version":  16,
+        "internalName":  "KultFilmler",
+        "description":  "KÃ¼lt Filmler Ã¶zenle en iyi filmleri derler ve iyi bir altyazÄ±lÄ± film izleme deneyimi sunmayÄ± amaÃ§lar",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/KultFilmler.cs3",
+        "name":  "KultFilmler"
+    },
+    {
+        "iconUrl":  "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/mirrorverseicon.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  119508,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "kraptor",
+                        "NivinCNC",
+                        "ByAyzen"
+                    ],
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries"
+                    ],
+        "version":  38,
+        "internalName":  "MirrorVerse",
+        "description":  "Netflix, Disney+ ve Primevideo eklentileri tek bir eklentide kendisi bir eklenti degildir bu 3 eklentiyi kurar, tÃ¼m eklentilerde altyazÄ± netflixde dublaj desteÄŸi var.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/MirrorVerse.cs3",
+        "name":  "MirrorVerse"
+    },
+    {
+        "iconUrl":  "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzikkanallari.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  23377,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "GitLatte",
+                        "patr0nq"
+                    ],
+        "tvTypes":  [
+                        "Live"
+                    ],
+        "version":  3,
+        "internalName":  "MÃ¼zik TV ve Radyo - Latte",
+        "description":  "MÃ¼zik KanallarÄ±na Ã¶zel canlÄ± tv eklentisidir.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Muzik_TV_ve_Radyo_-_Latte.cs3",
+        "name":  "MÃ¼zik TV ve Radyo - Latte"
+    },
+    {
+        "iconUrl":  "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  19932,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun",
+                        "GitLatte",
+                        "patr0nq",
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "Live"
+                    ],
+        "version":  3,
+        "internalName":  "myway TV - Latte",
+        "description":  "Sinetech.tr Forum myway canlÄ± tv listesi",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/myway_TV_-_Latte.cs3",
+        "name":  "myway TV - Latte"
+    },
+    {
+        "iconUrl":  "https://t0.gstatic.com/faviconV2?client=SOCIAL\u0026type=FAVICON\u0026fallback_opts=TYPE,SIZE,URL\u0026url=https://www.onepacetr.net/\u0026size=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  25092,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "kraptor"
+                    ],
+        "tvTypes":  [
+                        "Anime"
+                    ],
+        "version":  13,
+        "internalName":  "OnePaceTr",
+        "description":  "One Pace tÃ¼rkÃ§e altyazÄ±lÄ± izleme platformu.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/OnePaceTr.cs3",
+        "name":  "OnePaceTr"
+    },
+    {
+        "iconUrl":  "https://t2.gstatic.com/faviconV2?client=SOCIAL\u0026type=FAVICON\u0026fallback_opts=TYPE,SIZE,URL\u0026url=https://openani.me/\u0026size=24",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  67615,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "kraptor",
+                        "ByAyzen"
+                    ],
+        "tvTypes":  [
+                        "Anime",
+                        "AnimeMovie"
+                    ],
+        "version":  28,
+        "internalName":  "OpenAnime",
+        "description":  "Anime izleme deneyiminizi zenginleÅŸtiren, hÄ±zlÄ± ve etkileyici Ã¶zelliklerle donatÄ±lmÄ±ÅŸ, ÅŸÄ±k bir tasarÄ±ma sahip anime platformu. Anime izleme deneyiminiz, kolaylaÅŸtÄ±rÄ±ldÄ±.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/OpenAnime.cs3",
+        "name":  "OpenAnime"
+    },
+    {
+        "iconUrl":  "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powerdizi.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  34237,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "GitLatte",
+                        "patr0nq",
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "TvSeries"
+                    ],
+        "version":  6,
+        "internalName":  "powerboard Dizi - Latte",
+        "description":  "powerboard`un yabancÄ± dizi arÅŸivi",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/powerboard_Dizi_-_Latte.cs3",
+        "name":  "powerboard Dizi - Latte"
+    },
+    {
+        "iconUrl":  "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powersinema.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  38795,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "GitLatte",
+                        "patr0nq",
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  5,
+        "internalName":  "powerboard Sinema - Latte",
+        "description":  "powerboard`un sinema arÅŸivi",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/powerboard_Sinema_-_Latte.cs3",
+        "name":  "powerboard Sinema - Latte"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=tr.canlitv.team\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  18697,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "patr0n"
+                    ],
+        "tvTypes":  [
+                        "TvSeries"
+                    ],
+        "version":  3,
+        "internalName":  "powerDizi",
+        "description":  "powerDizi",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/powerDizi.cs3",
+        "name":  "powerDizi"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=tr.canlitv.team\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  18690,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "patr0n"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  3,
+        "internalName":  "powerSinema",
+        "description":  "powerSinema",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/powerSinema.cs3",
+        "name":  "powerSinema"
+    },
+    {
+        "iconUrl":  "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  40221,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun",
+                        "yusiqo",
+                        "inatchii",
+                        "JustRelaxable",
+                        "patr0n"
+                    ],
+        "tvTypes":  [
+                        "Movie",
+                        "Live",
+                        "TvSeries"
+                    ],
+        "version":  113,
+        "internalName":  "RecTV",
+        "description":  "RecTv APK, TÃ¼rkiye\u0027deki en popÃ¼ler Ã‡evrimiÃ§i Medya AkÄ±ÅŸ platformlarÄ±ndan biridir. Filmlerin, CanlÄ± SporlarÄ±n, Web Dizilerinin ve Ã§ok daha fazlasÄ±nÄ±n keyfini Ã¼cretsiz Ã§Ä±karÄ±n.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/RecTV.cs3",
+        "name":  "RecTV"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=roketdizi.co\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  37404,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "TvSeries"
+                    ],
+        "version":  15,
+        "internalName":  "RoketDizi",
+        "description":  "TÃ¼rkiye\u0027nin en tatlÄ±ÅŸ yabancÄ± dizi izleme sitesi. TÃ¼rkÃ§e dublaj, altyazÄ±lÄ±, eski ve yeni yabancÄ± dizilerin yanÄ± sÄ±ra kore (asya) dizileri izleyebilirsiniz.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/RoketDizi.cs3",
+        "name":  "RoketDizi"
+    },
+    {
+        "iconUrl":  "https://seicode.net/favicon.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  20383,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "kraptor",
+                        "ByAyzen",
+                        "kerimmkirac"
+                    ],
+        "tvTypes":  [
+                        "Anime"
+                    ],
+        "version":  25,
+        "internalName":  "SeiCode",
+        "description":  "Seicode ile en yeni animeler keÅŸfedin!",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/SeiCode.cs3",
+        "name":  "SeiCode"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=selcukflix.com\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  30130,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries"
+                    ],
+        "version":  6,
+        "internalName":  "SelcukFlix",
+        "description":  "Selcukflix\u0027te her tÃ¼rden en yeni ve en popÃ¼ler dizi ve filmleri izlemenin keyfini Ã§Ä±karÄ±n. Aksiyondan romantiÄŸe, bilim kurgudan dramaya, geniÅŸ kÃ¼tÃ¼phanemizde herkes iÃ§in bir ÅŸey var.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/SelcukFlix.cs3",
+        "name":  "SelcukFlix"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=www.setfilmizle.uk\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  25096,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries"
+                    ],
+        "version":  32,
+        "internalName":  "SetFilmIzle",
+        "description":  "Setfilmizle sitemizde, donma yaÅŸamadan TÃ¼rkÃ§e dublaj ve altyazÄ±lÄ± filmleri ile dizileri muhteÅŸem 1080p full HD kalitesinde izleyebilirsiniz.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/SetFilmIzle.cs3",
+        "name":  "SetFilmIzle"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=sezonlukdizi6.com\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  22620,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun",
+                        "JustRelaxable",
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "TvSeries"
+                    ],
+        "version":  9,
+        "internalName":  "SezonlukDizi",
+        "description":  "GÃ¼ncel ve eski dizileri en iyi gÃ¶rÃ¼ntÃ¼ kalitesiyle bulabileceÄŸiniz yabancÄ± dizi izleme siteniz.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/SezonlukDizi.cs3",
+        "name":  "SezonlukDizi"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=sezonlukdizi.one\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  20018,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "bilhan50"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  1,
+        "internalName":  "SezonlukFilm",
+        "description":  "SezonlukFilm - en yeni filmleri full HD, turkce dublaj veya altyazili 4K kalitesinde izleyin.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/SezonlukFilm.cs3",
+        "name":  "SezonlukFilm"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=www.sinema.cx\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  16715,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  25,
+        "internalName":  "SinemaCX",
+        "description":  "GÃ¼ncel ve en iyi yabancÄ± filmleri yÃ¼ksek gÃ¶rÃ¼ntÃ¼ kalitesinde, TÃ¼rkÃ§e dublaj ve altyazÄ± seÃ§enekleriyle filmleri full izleyin.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/SinemaCX.cs3",
+        "name":  "SinemaCX"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=https://www.sinewix.com/\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  28626,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries",
+                        "Anime"
+                    ],
+        "version":  3,
+        "internalName":  "SineWix",
+        "description":  "SineWix | Film - Dizi - Anime Ä°zleme UygulamasÄ±",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/SineWix.cs3",
+        "name":  "SineWix"
+    },
+    {
+        "iconUrl":  "https://t0.gstatic.com/faviconV2?client=SOCIAL\u0026type=FAVICON\u0026fallback_opts=TYPE,SIZE,URL\u0026url=http://sinezy.fit\u0026size=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  14152,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "kraptor"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  40,
+        "internalName":  "Sinezy",
+        "description":  "Yerli ve yabancÄ± film izle! TÃ¼rkÃ§e Dublaj ve Alt YazÄ±lÄ± SeÃ§enekleriyle full hd film izlemek iÃ§in En Ã§ok tercih edilen adres!",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Sinezy.cs3",
+        "name":  "Sinezy"
+    },
+    {
+        "iconUrl":  "https://www.turksatkablo.com.tr/images/icerik/ssportplus.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  24425,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "Makoto Tokioki"
+                    ],
+        "tvTypes":  [
+                        "Live"
+                    ],
+        "version":  8,
+        "internalName":  "SSportPlus",
+        "description":  "SSport+ canlÄ± yayÄ±nlarÄ± ve arÅŸiv iÃ§erikleri",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/SSportPlus.cs3",
+        "name":  "SSportPlus"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.biz\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  19771,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun",
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  24,
+        "internalName":  "SuperFilmGeldi",
+        "description":  "Hd film izliyerek arkadaÅŸlarÄ±nÄ±zla ve sevdiklerinizle iyi bir vakit geÃ§irmek istiyorsanÄ±z aÃ§Ä±n bir film eÄŸlenmeye bakÄ±n. Bilim kurgu filmleri, aÅŸk drama vahÅŸet aÅŸk romantik sÄ±radÄ±ÅŸÄ± korku filmlerini izle.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/SuperFilmGeldi.cs3",
+        "name":  "SuperFilmGeldi"
+    },
+    {
+        "iconUrl":  "https://seeklogo.com/images/T/tabii-logo-60B8BC0D5D-seeklogo.com.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  41767,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "Makoto Tokioki"
+                    ],
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries"
+                    ],
+        "version":  9,
+        "internalName":  "Tabii",
+        "description":  "Tabii iÃ§eriklerine bu eklenti sayesinde eriÅŸebilirsiniz",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Tabii.cs3",
+        "name":  "Tabii"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=tafdi.info\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  11901,
+        "status":  0,
+        "language":  "tr",
+        "authors":  [
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  3,
+        "internalName":  "Tafdi",
+        "description":  "TÃ¼rkÃ§e altyazÄ±lÄ± film izle, full hd olarak film izlemenin keyfini Ã§Ä±karÄ±n. TÃ¼rkiyenin en bÃ¼yÃ¼k film izleme platformu tafdi kalitesiyle sizlerle.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Tafdi.cs3",
+        "name":  "Tafdi"
+    },
+    {
+        "iconUrl":  "https://www.tlctv.com.tr/favicon.ico",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  13259,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "TvSeries"
+                    ],
+        "version":  1,
+        "internalName":  "TLC",
+        "description":  "TLC TV dizi ve programlarÄ±nÄ± takip etmek iÃ§in ziyaret edin. TLC TV dizi ve programlarÄ±nÄ± tek parÃ§a ve hd kalitesiyle izleyin.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TLC.cs3",
+        "name":  "TLC"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  13170,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  19,
+        "internalName":  "TLCtr",
+        "description":  "TLC tr",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TLCtr.cs3",
+        "name":  "TLCtr"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=upload.wikimedia.org\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  19290,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "Makoto Tokioki"
+                    ],
+        "tvTypes":  [
+                        "Movie",
+                        "Torrent"
+                    ],
+        "version":  2,
+        "internalName":  "TorrentFilm",
+        "description":  "TÃ¼rkÃ§e altyazÄ±lÄ± torrentleri buradan 4K kalitesinde izleyebilirsiniz.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TorrentFilm.cs3",
+        "name":  "TorrentFilm"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=tranimaci.com\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  16863,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun",
+                        "patr0n"
+                    ],
+        "tvTypes":  [
+                        "Anime"
+                    ],
+        "version":  19,
+        "internalName":  "TRanimaci",
+        "description":  "TRanimeci - TÃ¼rkiye\u0027nin Online Anime izleme sitesi.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TRanimaci.cs3",
+        "name":  "TRanimaci"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=asyalog.co\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  15594,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "TvSeries"
+                    ],
+        "version":  65,
+        "internalName":  "TRasyalog",
+        "description":  "TRasyalog izleme sitesi.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TRasyalog.cs3",
+        "name":  "TRasyalog"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=www.turkanime.co\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  16212,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "Anime"
+                    ],
+        "version":  14,
+        "internalName":  "TurkAnime",
+        "description":  "TÃ¼rk Anime TV - TÃ¼rkiye\u0027nin Online Anime izleme sitesi.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TurkAnime.cs3",
+        "name":  "TurkAnime"
+    },
+    {
+        "iconUrl":  "https://i.imgur.com/Cff8v6J.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  165395,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "ByAyzen"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  33,
+        "internalName":  "Turkdizileri",
+        "description":  "TRT1, Showtv, Kanal D ve daha fazla site tek bir eklentide birleÅŸiyor.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Turkdizileri.cs3",
+        "name":  "Turkdizileri"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?sz=64\u0026domain=themoviedb.org",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  475398,
+        "status":  0,
+        "language":  "tr",
+        "authors":  [
+                        "hrtestingx",
+                        "kraptor",
+                        "keyiflerolsun",
+                        "byayzen",
+                        "kerimmkirac",
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries",
+                        "Anime",
+                        "Live"
+                    ],
+        "version":  10,
+        "internalName":  "TurkishMix",
+        "description":  "Tek arama sonucu; Bir iÃ§eriÄŸe girince tÃ¼m kaynaklardan linkleri toplar. Film, Dizi, Anime, CanlÄ± TV.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TurkishMix.cs3",
+        "name":  "TurkishMix"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?sz=64\u0026domain=themoviedb.org",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  505390,
+        "status":  0,
+        "language":  "tr",
+        "authors":  [
+                        "kraptor",
+                        "keyiflerolsun",
+                        "byayzen",
+                        "kerimmkirac",
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries",
+                        "Anime",
+                        "Live"
+                    ],
+        "version":  85,
+        "internalName":  "TurkishW",
+        "description":  "Tek arama sonucu (TurkishW); bir iÃ§eriÄŸe girince tÃ¼m kaynaklardan linkleri toplar. Film, Dizi, Anime + CanlÄ± TV.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TurkishW.cs3",
+        "name":  "TurkishW"
+    },
+    {
+        "iconUrl":  "",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  7954,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+
+                    ],
+        "tvTypes":  [
+
+                    ],
+        "version":  2,
+        "internalName":  "TurkMegaSaglayici",
+        "description":  "Bu eklenti, uygulama her aÃ§Ä±ldÄ±ÄŸÄ±nda tÃ¼m depolarÄ± ekler. EÄŸer tÃ¼m depolarÄ± eklemek istemiyorsanÄ±z, tek bir Ã§alÄ±ÅŸtÄ±rmadan sonra eklentiyi kaldÄ±rÄ±n. Depo listesi otomatik olarak yenilenmez.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TurkMegaSaglayici.cs3",
+        "name":  "TurkMegaSaglayici"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=tr.canlitv.team\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  18030,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "Adippe",
+                        "keyiflerolsun",
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "Live"
+                    ],
+        "version":  6,
+        "internalName":  "TurkSCanliTV",
+        "description":  "TurkS CanlÄ± TV",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TurkSCanliTV.cs3",
+        "name":  "TurkSCanliTV"
+    },
+    {
+        "iconUrl":  "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/bahcesitv.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  20365,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "GitLatte",
+                        "patr0nq",
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "Live"
+                    ],
+        "version":  3,
+        "internalName":  "Tv BahÃ§esi - Latte",
+        "description":  "TvGarden televizyon listesi. @keyiflerolsun CanlÄ± TV eklentisinden yararlanÄ±lmÄ±ÅŸtÄ±r.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/Tv_Bahcesi_-_Latte.cs3",
+        "name":  "Tv BahÃ§esi - Latte"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=tvdiziler.cc\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  26861,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "TvSeries"
+                    ],
+        "version":  4,
+        "internalName":  "TvDiziler",
+        "description":  "Ãœcretsiz yerli dizi izleme sitesi en popÃ¼ler dizileri tek parÃ§a hd kalitesiyle ve reklamsÄ±z bedava olarak buradan tv dizileri izleyin.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/TvDiziler.cs3",
+        "name":  "TvDiziler"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=ugurfilm7.com\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  20875,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  13,
+        "internalName":  "UgurFilm",
+        "description":  "YabancÄ± film izle, TÃ¼rkÃ§e dublaj ve TÃ¼rkÃ§e altyazÄ±lÄ± film seÃ§enekleriyle 720p ve 1080p HD kalitesinde film izle - UÄŸur Film full hd film izle.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/UgurFilm.cs3",
+        "name":  "UgurFilm"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=tr.canlitv.team\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  18697,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "patr0n"
+                    ],
+        "tvTypes":  [
+                        "Live"
+                    ],
+        "version":  2,
+        "internalName":  "vavooSpor",
+        "description":  "vavooSpor",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/vavooSpor.cs3",
+        "name":  "vavooSpor"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?sz=128\u0026domain=webdramaturkey2.com",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  128271,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "CloudStreamTR",
+                        "kraptor"
+                    ],
+        "tvTypes":  [
+                        "AsianDrama"
+                    ],
+        "version":  15,
+        "internalName":  "WebDramaTurkey",
+        "description":  "WebDramaTurkey - Asya Dizileri ve Web Drama ArÅŸivi TÃ¼rkÃ§e AltyazÄ±lÄ±",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/WebDramaTurkey.cs3",
+        "name":  "WebDramaTurkey"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=webdramaturkey.org\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  32680,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "GitLatte",
+                        "patr0nq"
+                    ],
+        "tvTypes":  [
+                        "Movie",
+                        "Podcast",
+                        "AsianDrama",
+                        "Anime"
+                    ],
+        "version":  3,
+        "internalName":  "WebDramaTurkey - Latte",
+        "description":  "Kore, Ã‡in ve Japon yapÄ±mÄ± filmleri Web Drama Turkey Ã¼zerinden TÃ¼rkÃ§e altyazÄ±lÄ± olarak izleyebilirsiniz. Kore filmi izle, Ã‡in filmi izle, Asya filmleri izle.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/WebDramaTurkey_-_Latte.cs3",
+        "name":  "WebDramaTurkey - Latte"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=https://webdramaturkey2.com\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  47944,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "patr0n"
+                    ],
+        "tvTypes":  [
+                        "AsianDrama",
+                        "Movie",
+                        "Anime",
+                        "Others"
+                    ],
+        "version":  1,
+        "internalName":  "WebdramaTurkey2",
+        "description":  "WebdramaTurkey2 Ä°Ã§erikleri",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/WebdramaTurkey2.cs3",
+        "name":  "WebdramaTurkey2"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=webteizle2.com\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  30581,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "keyiflerolsun",
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  59,
+        "internalName":  "WebteIzle",
+        "description":  "Her tÃ¼rlÃ¼ filmi ister dublaj ister altyazÄ±lÄ±, en kaliteli bir ÅŸekilde izleyebileceÄŸiniz arÅŸivi en geniÅŸ gerÃ§ek film izleme siteniz.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/WebteIzle.cs3",
+        "name":  "WebteIzle"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=wfilmizle.my\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  15649,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  7,
+        "internalName":  "WFilmÄ°zle",
+        "description":  "Aile Filmleri izle, Yerli ve yabancÄ± en yeni Aile filmlerini Full HD 1080p gÃ¶rÃ¼ntÃ¼ kalitesiyle TÃ¼rkÃ§e Dublaj ve TÃ¼rkÃ§e AltyazÄ± seÃ§enekleriyle izleyin.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/WFilmIzle.cs3",
+        "name":  "WFilmÄ°zle"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=xprime.tv\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  28280,
+        "status":  0,
+        "language":  "tr",
+        "authors":  [
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  6,
+        "internalName":  "XPrime",
+        "description":  "XPrime.Tv",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/XPrime.cs3",
+        "name":  "XPrime"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=yabancidizi.tv\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  43072,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "nikyokki"
+                    ],
+        "tvTypes":  [
+                        "TvSeries"
+                    ],
+        "version":  8,
+        "internalName":  "YabanciDizi",
+        "description":  "Son Ã§Ä±kan yabancÄ± dizi ve filmleri yabancidizi\u0027 de izle. En yeni yabancÄ± film ve diziler, tÃ¼rkÃ§e altyazÄ±lÄ± yada dublaj olarak 1080p kalitesinde hd izle.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/YabanciDizi.cs3",
+        "name":  "YabanciDizi"
+    },
+    {
+        "iconUrl":  "https://t3.gstatic.com/faviconV2?client=SOCIAL\u0026type=FAVICON\u0026fallback_opts=TYPE,SIZE,URL\u0026url=https://www.yenikaynak.com/\u0026size=16",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  21423,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "kraptor",
+                        "ByAyzen"
+                    ],
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries"
+                    ],
+        "version":  11,
+        "internalName":  "YeniKaynak",
+        "description":  "Ä°ran SinemasÄ±nÄ±n Yeni Adresi - Ä°ran Filmleri, Ä°ran Dizileri, Ä°slami Filmler, Dini Filmler, Dini Sinema, Ä°slami Diziler,...",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/YeniKaynak.cs3",
+        "name":  "YeniKaynak"
+    },
+    {
+        "iconUrl":  "https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  78243,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "Makoto Tokioki"
+                    ],
+        "tvTypes":  [
+                        "TvSeries"
+                    ],
+        "version":  14,
+        "internalName":  "YerelDiziler",
+        "description":  "Bu eklentide yerel dizileri gÃ¼ncel ÅŸekilde bulabilirsiniz",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/YerelDiziler.cs3",
+        "name":  "YerelDiziler"
+    },
+    {
+        "iconUrl":  "https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  77654,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "Makoto Tokioki"
+                    ],
+        "tvTypes":  [
+                        "TvSeries"
+                    ],
+        "version":  1,
+        "internalName":  "YerelProgramlar",
+        "description":  "Yerel programlarÄ± gÃ¼ncel ÅŸekilde bulabilirsiniz",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/YerelProgramlar.cs3",
+        "name":  "YerelProgramlar"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?sz=128\u0026domain=yesilcamtv.com.tr",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  128429,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "CloudStreamTR",
+                        "kraptor"
+                    ],
+        "tvTypes":  [
+                        "Movie"
+                    ],
+        "version":  26,
+        "internalName":  "YesilCamTv",
+        "description":  "YeÅŸilÃ§am klasik TÃ¼rk sinemasÄ± filmleri ve arÅŸiv",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/YesilCamTv.cs3",
+        "name":  "YesilCamTv"
+    },
+    {
+        "iconUrl":  "https://www.google.com/s2/favicons?domain=youtube.com\u0026sz=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  14115,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "Cloudburst",
+                        "keyiflerolsun"
+                    ],
+        "tvTypes":  [
+                        "Others"
+                    ],
+        "version":  6,
+        "internalName":  "YouTube",
+        "description":  "YouTube, izlediÄŸiniz videolarla Ã¶nerilerini iyileÅŸtirir. Ä°lginizi Ã§ekebilecek iÃ§eriklerle dolu bir akÄ±ÅŸ oluÅŸturmak iÃ§in video izlemeye baÅŸlayÄ±n.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/YouTube.cs3",
+        "name":  "YouTube"
+    },
+    {
+        "iconUrl":  "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/Latte%20Tube/latte-tube.png",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  13644,
+        "status":  1,
+        "language":  "tr",
+        "authors":  [
+                        "GitLatte"
+                    ],
+        "tvTypes":  [
+                        "Live"
+                    ],
+        "version":  1,
+        "internalName":  "YouTube Ã–zel - Latte",
+        "description":  "Youtube 7/24 iÃ§eriklerinden derlemeler iÃ§erir. Orijinal youtube ile oynatÄ±larak kullanÄ±lmaktadÄ±r. Bu konuda @feroxx`un geliÅŸtirdiÄŸi youtube extractor iÃ§in teÅŸekkÃ¼rler.",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/YouTube_Ozel_-_Latte.cs3",
+        "name":  "YouTube Ã–zel - Latte"
+    },
+    {
+        "iconUrl":  "https://t0.gstatic.com/faviconV2?client=SOCIAL\u0026type=FAVICON\u0026fallback_opts=TYPE,SIZE,URL\u0026url=https://en.yts-official.mx\u0026size=128",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/Nikkoshoptr/Pamuktv",
+        "fileSize":  15868,
+        "status":  0,
+        "language":  "tr",
+        "authors":  [
+                        "kraptor",
+                        "Phisher98",
+                        "ByAyzen"
+                    ],
+        "tvTypes":  [
+                        "Torrent"
+                    ],
+        "version":  42,
+        "internalName":  "YTS",
+        "description":  "YTS Filmleri 4K DesteÄŸi Otomatik altyazÄ± ve film aÃ§Ä±klamasÄ± (Torrent)",
+        "url":  "https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs3/YTS.cs3",
+        "name":  "YTS"
     }
 ]
-
-
-
-
-
-
-
-
-
-

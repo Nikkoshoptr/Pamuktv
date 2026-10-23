@@ -75,8 +75,8 @@ https://raw.githubusercontent.com/Nikkoshoptr/Pamuktv/main/cs.json
 | 52 | GinikoCanli | Live | 15 | ✅ |
 | 53 | GoFilmIzle - Latte | Movie | 3 | ✅ |
 | 54 | GolgeTV | Live | 6 | ⛔ (devre dısı) |
-| 55 | HDFilmCehennemi v61 | Movie, TvSeries | 61 | ✅ |
-| 56 | HDFilmCehennemi2 | Movie | 7 | ✅ |
+| 55 | HDFilmCehennemi v62 | Movie, TvSeries | 62 | ✅ |
+| 56 | HDFilmCehennemi2 | Movie | 8 | ✅ |
 | 57 | HDFilmDelisi | Movie, TvSeries | 1 | ✅ |
 | 58 | HDFilmIzle | Movie, TvSeries | 7 | ✅ |
 | 59 | HDFilmSitesi | Movie | 18 | ✅ |
